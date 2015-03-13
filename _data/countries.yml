@@ -1003,7 +1003,14 @@ Montenegro:
   Status: Inactive
 Morocco: 
   SOV_A3: MAR
-  Status: Inactive
+  Status: Active
+  Projects:
+    MorSEFF:
+      Name: Sustainable Energy Finance Facility
+      URL: http://dai.com/our-work/projects/southern-eastern-mediterranean—sustainable-energy-financing-facility-semed-seff
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2013
+      End_Date: 2017
 Mozambique:
   SOV_A3: MOZ
   Status: Active

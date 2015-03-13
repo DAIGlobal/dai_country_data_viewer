@@ -14,7 +14,7 @@
         "id": "marker-i62cz7ev2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects In Egypt"
       },
       "type": "Feature"
@@ -33,7 +33,7 @@
         "id": "marker-i62d2e8t3",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects In Sierra Leone"
       },
       "type": "Feature"
@@ -52,7 +52,7 @@
         "id": "marker-i62d6cd04",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects In Liberia"
       },
       "type": "Feature"
@@ -67,11 +67,11 @@
       },
       "id": "ci62dj7ts054hjylwngumx0g8",
       "properties": {
-        "description": "- <a target=\"blank\" href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- WRCF (DFID)<br>- MADE (DFID)",
+        "description": "- <a target=\"blank\" href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead II</a> (USAID)<br>- WRCF (DFID)<br>- <a href=\"http://dai.com/our-work/projects/ghana—market-development-made-northern-ghana\">MADE</a> (DFID)",
         "id": "marker-i62dcu545",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects In Ghana"
       },
       "type": "Feature"
@@ -90,7 +90,7 @@
         "id": "marker-i682cz700",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in The Democratic Republic of the Congo"
       },
       "type": "Feature"
@@ -109,7 +109,7 @@
         "id": "marker-i682kpn50",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Uganda"
       },
       "type": "Feature"
@@ -128,7 +128,7 @@
         "id": "marker-i68dfurp0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Ethiopia"
       },
       "type": "Feature"
@@ -147,7 +147,7 @@
         "id": "marker-i6jkja4f0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Rwanda"
       },
       "type": "Feature"
@@ -166,7 +166,7 @@
         "id": "marker-i6jkp8bf1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Burundi"
       },
       "type": "Feature"
@@ -185,7 +185,7 @@
         "id": "marker-i6jl72he2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "4",
         "title": "Active Projects in Tanzania"
       },
       "type": "Feature"
@@ -204,7 +204,7 @@
         "id": "marker-i6jo9fvy0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Malawi"
       },
       "type": "Feature"
@@ -219,11 +219,11 @@
       },
       "id": "ci6jrxi4z00vtkrm752e554ho",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94innovation-agribusiness-inovagro\">INOVAGRO</a> (SDC)<br>- <a href=\"http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa\">ESA</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed\">SPEED</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94democratic-governance-support-programme-dgsp\">DIALOGO</a> (DFID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94innovation-agribusiness-inovagro\">INOVAGRO</a> (SDC)<br>- <a href=\"http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa\">ESA</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed\">SPEED</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/mozambique%E2%80%94democratic-governance-support-programme-dgsp\">DIALOGO</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/zambia—financial-sector-deepening-zambia-fsdz\">FSD</a> (DFID)",
         "id": "marker-i6jocgu71",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "5",
         "title": "Active Projects in Mozambique"
       },
       "type": "Feature"
@@ -242,7 +242,7 @@
         "id": "marker-i6jog4xu2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Botswana"
       },
       "type": "Feature"
@@ -261,7 +261,7 @@
         "id": "marker-i6jogxqb3",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "5",
         "title": "Active Projects in Zambia"
       },
       "type": "Feature"
@@ -280,7 +280,7 @@
         "id": "marker-i6jooxxe4",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "7",
         "title": "Active Projects in Kenya"
       },
       "type": "Feature"
@@ -299,7 +299,7 @@
         "id": "marker-i6jrwqv15",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Madagascar"
       },
       "type": "Feature"
@@ -318,7 +318,7 @@
         "id": "marker-i6js3ajv0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Somalia"
       },
       "type": "Feature"
@@ -337,7 +337,7 @@
         "id": "marker-i6js5ttp1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Somaliland"
       },
       "type": "Feature"
@@ -356,7 +356,7 @@
         "id": "marker-i6js90o01",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "4",
         "title": "Active Projects in Jordan"
       },
       "type": "Feature"
@@ -375,7 +375,7 @@
         "id": "marker-i6jsbdeh2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Lebanon"
       },
       "type": "Feature"
@@ -390,31 +390,12 @@
       },
       "id": "ci6jt846u01a3k5m7t97vo5kk",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp\">PMDP</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/palestine%E2%80%94-compete-project\">Compete</a> (USAID)<br>- EGP (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp\">PMDP</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/palestine%E2%80%94-compete-project\">Compete</a> (USAID)",
         "id": "marker-i6jseh5g3",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Palestine"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          34.859619,
-          31.015278
-        ],
-        "type": "Point"
-      },
-      "id": "ci6jt846v01a4k5m7ehdoahss",
-      "properties": {
-        "description": "- EGP (USAID)",
-        "id": "marker-i6jskqw94",
-        "marker-color": "#6c6c6c",
-        "marker-size": "small",
-        "marker-symbol": "circle",
-        "title": "Active Projects in Israel"
       },
       "type": "Feature"
     },
@@ -432,7 +413,7 @@
         "id": "marker-i6jt9hvb0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "7",
         "title": "Active Projects in Afghanistan"
       },
       "type": "Feature"
@@ -451,7 +432,7 @@
         "id": "marker-i6jtjwqe1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Uzbekistan"
       },
       "type": "Feature"
@@ -470,7 +451,7 @@
         "id": "marker-i6jtz6lv2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Tajikistan"
       },
       "type": "Feature"
@@ -489,7 +470,7 @@
         "id": "marker-i6ju09x03",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Kyrgyzstan"
       },
       "type": "Feature"
@@ -504,11 +485,11 @@
       },
       "id": "ci6jvqkpt00tzjsm7avm9abzh",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94enhanced-democratic-accountability-and-civic-engagement-edace\">EDACE</a> (FCO)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94transforming-education-pakistan-tep\">TEP</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94aawaz-voice-and-accountability-programme\">AAWAZ</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94education-voice-and-accountability-fund\">Ilm Ideas</a> (DFID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94enhanced-democratic-accountability-and-civic-engagement-edace\">EDACE</a> (FCO)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94transforming-education-pakistan-tep\">TEP</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94aawaz-voice-and-accountability-programme\">AAWAZ</a> (DFID)<br>- <a href=\"http://dai.com/our-work/projects/pakistan%E2%80%94education-voice-and-accountability-fund\">Ilm Ideas</a> (DFID)<br>- KPG (USAID)",
         "id": "marker-i6juguya4",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "5",
         "title": "Active Projects in Pakistan"
       },
       "type": "Feature"
@@ -527,7 +508,7 @@
         "id": "marker-i6jumlha5",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in India"
       },
       "type": "Feature"
@@ -546,7 +527,7 @@
         "id": "marker-i6jupbtc6",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Nepal"
       },
       "type": "Feature"
@@ -565,7 +546,7 @@
         "id": "marker-i6jura6y7",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Bhutan"
       },
       "type": "Feature"
@@ -584,7 +565,7 @@
         "id": "marker-i6jusger8",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Bangladesh"
       },
       "type": "Feature"
@@ -603,7 +584,7 @@
         "id": "marker-i6jutir09",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Myanmar"
       },
       "type": "Feature"
@@ -622,7 +603,7 @@
         "id": "marker-i6juvfcma",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Laos"
       },
       "type": "Feature"
@@ -641,7 +622,7 @@
         "id": "marker-i6juwj0nb",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Cambodia"
       },
       "type": "Feature"
@@ -660,7 +641,7 @@
         "id": "marker-i6juxzywc",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in Vietnam"
       },
       "type": "Feature"
@@ -675,11 +656,11 @@
       },
       "id": "ci6jvqkq200u8jsm7mtxwrgq4",
       "properties": {
-        "description": "- CEIL Peaks (DFID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/worldwide—evidence-demand-core-services\">Evidence on Demand</a> (DFID)",
         "id": "marker-i6jv0qjmd",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in China"
       },
       "type": "Feature"
@@ -698,7 +679,7 @@
         "id": "marker-i6jv2aqse",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Sri Lanka"
       },
       "type": "Feature"
@@ -717,7 +698,7 @@
         "id": "marker-i6jv3g45f",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Malaysia"
       },
       "type": "Feature"
@@ -736,7 +717,7 @@
         "id": "marker-i6jv5cxig",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Singapore"
       },
       "type": "Feature"
@@ -755,7 +736,7 @@
         "id": "marker-i6jv6z7sh",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Indonesia"
       },
       "type": "Feature"
@@ -774,7 +755,7 @@
         "id": "marker-i6jv8uuxi",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Brunei"
       },
       "type": "Feature"
@@ -793,7 +774,7 @@
         "id": "marker-i6jvgn80j",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in East Timor"
       },
       "type": "Feature"
@@ -812,7 +793,7 @@
         "id": "marker-i6jvho00k",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in the Philippines"
       },
       "type": "Feature"
@@ -827,11 +808,11 @@
       },
       "id": "ci6jvqkqb00ugjsm7tdhufp4w",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap\"> C-CAP</a> (WB)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap\"> C-CAP</a> (WB)<br>- PPQME (ADFAT)",
         "id": "marker-i6jvmka5l",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Papua New Guinea"
       },
       "type": "Feature"
@@ -850,7 +831,7 @@
         "id": "marker-i6jvogsum",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in the Solomon Islands"
       },
       "type": "Feature"
@@ -869,7 +850,7 @@
         "id": "marker-i6jvpitbn",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Vanuatu"
       },
       "type": "Feature"
@@ -884,11 +865,11 @@
       },
       "id": "ci6jvqkqe00ujjsm7qf2472g5",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap\"> C-CAP</a> (WB)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap\"> C-CAP</a> (WB)<br>- RAS (ADFAT)",
         "id": "marker-i6jvpyx3o",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Fiji"
       },
       "type": "Feature"
@@ -907,7 +888,7 @@
         "id": "marker-i6jvqc80p",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Tonga"
       },
       "type": "Feature"
@@ -926,7 +907,7 @@
         "id": "marker-i6jvtcgi0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Nauru"
       },
       "type": "Feature"
@@ -945,7 +926,7 @@
         "id": "marker-i6jvulsb1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in the Marshall Islands"
       },
       "type": "Feature"
@@ -964,7 +945,7 @@
         "id": "marker-i6jvvw2s2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Micronesia"
       },
       "type": "Feature"
@@ -983,7 +964,7 @@
         "id": "marker-i6jvz1ev3",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Samoa"
       },
       "type": "Feature"
@@ -1002,7 +983,7 @@
         "id": "marker-i6jvzo7r4",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Kiribati"
       },
       "type": "Feature"
@@ -1021,7 +1002,7 @@
         "id": "marker-i6jw0iow5",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in the Maldives"
       },
       "type": "Feature"
@@ -1040,7 +1021,7 @@
         "id": "marker-i6jw1w5d6",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in the Seychelles"
       },
       "type": "Feature"
@@ -1059,7 +1040,7 @@
         "id": "marker-i6jw3qoj7",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Mongolia"
       },
       "type": "Feature"
@@ -1078,7 +1059,7 @@
         "id": "marker-i6jw4byj8",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Russia"
       },
       "type": "Feature"
@@ -1097,7 +1078,7 @@
         "id": "marker-i6jw5f649",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Georgia"
       },
       "type": "Feature"
@@ -1116,7 +1097,7 @@
         "id": "marker-i6jw6gnha",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Ukraine"
       },
       "type": "Feature"
@@ -1135,7 +1116,7 @@
         "id": "marker-i6jw70k6b",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Belarus"
       },
       "type": "Feature"
@@ -1154,7 +1135,7 @@
         "id": "marker-i6jw7llyc",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Poland"
       },
       "type": "Feature"
@@ -1169,11 +1150,11 @@
       },
       "id": "ci6jwcesl01ejkrm56n8rd2c1",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation\">Clima-East</a> (EC)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation\">Clima-East</a> (EC)<br>- <a href=\"http://dai.com/our-work/projects/moldova—agricultural-competitiveness-and-enterprise-development-project-aced\">ACED</a> (USAID, MCC)",
         "id": "marker-i6jw883qd",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Moldova"
       },
       "type": "Feature"
@@ -1192,7 +1173,7 @@
         "id": "marker-i6jw95soe",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Macedonia"
       },
       "type": "Feature"
@@ -1211,7 +1192,7 @@
         "id": "marker-i6jwa4ugf",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Serbia"
       },
       "type": "Feature"
@@ -1230,7 +1211,7 @@
         "id": "marker-i6jwb20xg",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Bosnia and Herzegovina"
       },
       "type": "Feature"
@@ -1249,7 +1230,7 @@
         "id": "marker-i6jwby3uh",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Croatia"
       },
       "type": "Feature"
@@ -1420,7 +1401,7 @@
         "id": "marker-i6l1p32w0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Peru"
       },
       "type": "Feature"
@@ -1439,7 +1420,7 @@
         "id": "marker-i6l1pw3z1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Colombia"
       },
       "type": "Feature"
@@ -1458,7 +1439,7 @@
         "id": "marker-i6l1qokw2",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Panama"
       },
       "type": "Feature"
@@ -1477,7 +1458,7 @@
         "id": "marker-i6l1rmr43",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Costa Rica"
       },
       "type": "Feature"
@@ -1496,7 +1477,7 @@
         "id": "marker-i6l1rwtd4",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Nicaragua"
       },
       "type": "Feature"
@@ -1515,7 +1496,7 @@
         "id": "marker-i6l1sghl5",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Honduras"
       },
       "type": "Feature"
@@ -1534,7 +1515,7 @@
         "id": "marker-i6l1tbwa6",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "3",
         "title": "Active Projects in El Salvador"
       },
       "type": "Feature"
@@ -1553,7 +1534,7 @@
         "id": "marker-i6l1uvhv7",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Active Projects in Guatemala"
       },
       "type": "Feature"
@@ -1572,7 +1553,7 @@
         "id": "marker-i6l1y9hx9",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in the Dominican Republic"
       },
       "type": "Feature"
@@ -1591,7 +1572,7 @@
         "id": "marker-i6l1yzwma",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Active Projects in Haiti"
       },
       "type": "Feature"
@@ -1606,11 +1587,11 @@
       },
       "id": "ci6l28p0j042jk5m7lbjb31bx",
       "properties": {
-        "description": "- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94preparedness-and-response-pr\">P&R</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94food-and-nutrition-technical-assistance-project-iii-fanta-ii\">FANTA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)",
+        "description": "- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94preparedness-and-response-pr\">P&R</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii\">Africa Lead</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide—food-and-nutrition-technical-assistance-project-iii-fanta-iii\">FANTA</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services\">CDI</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94servir-program-demand-activity\">SERVIR</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/middle-east-and-north-africa%E2%80%94further-advancing-blue-revolution-initiative-fabri\">FABRI</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/worldwide%E2%80%94health-financing-and-governance\">HFG</a> (USAID)",
         "id": "marker-i6l21o09b",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "7",
         "title": "Global Projects Based in the United States"
       },
       "type": "Feature"
@@ -1629,7 +1610,7 @@
         "id": "marker-i6l2eldo0",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "1",
         "title": "Global Projects based in the United Kingdom"
       },
       "type": "Feature"
@@ -1644,105 +1625,111 @@
       },
       "id": "ci6l2ndgk02w6lum5id05bht3",
       "properties": {
-        "description": "- ASiST III (EC)",
+        "description": "- ASiST III (EC)<br>- <a href=\"http://dai.com/our-work/projects/african-caribbean-and-pacific–european-union-microfinance-programme\">EU-ACP</a> (EC)",
         "id": "marker-i6l2mkmy1",
         "marker-color": "#6c6c6c",
         "marker-size": "small",
-        "marker-symbol": "circle",
+        "marker-symbol": "2",
         "title": "Global Projects based in Belgium"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.868164,
+          40.430223
+        ],
+        "type": "Point"
+      },
+      "id": "ci74ypnsv0243ihm2gvvbggpr",
+      "properties": {
+        "description": "- <a href=\"http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation\">Clima East</a> (EC)",
+        "id": "marker-i74ymn2o0",
+        "marker-color": "#6c6c6c",
+        "marker-size": "small",
+        "marker-symbol": "1",
+        "title": "Active Projects in Armenia"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          47.438964,
+          40.380028
+        ],
+        "type": "Point"
+      },
+      "id": "ci74ypnsx0244ihm2sey1lzv8",
+      "properties": {
+        "description": "- <a href=\"http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation\">Clima East</a> (EC) ",
+        "id": "marker-i74yp7md1",
+        "marker-color": "#6c6c6c",
+        "marker-size": "small",
+        "marker-symbol": "1",
+        "title": "Active Projects in Azerbaijan"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          7.910156,
+          9.838979
+        ],
+        "type": "Point"
+      },
+      "id": "ci7572but00ztiem2cnqvi3cg",
+      "properties": {
+        "description": "- <a href=\"http://dai.com/our-work/projects/nigeria—market-development-programme-made\">MADE</a> (DFID)<br>- PDF (DFID)<br>- FEPAR (DFID)<br>- <a href=\"http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc\">SPARC</a> (DFID)",
+        "id": "marker-i756zp470",
+        "marker-color": "#6c6c6c",
+        "marker-size": "small",
+        "marker-symbol": "4",
+        "title": "Active Projects in Nigeria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          29.61914,
+          -18.812717
+        ],
+        "type": "Point"
+      },
+      "id": "ci758qkfk035thwm25vc83v21",
+      "properties": {
+        "description": "- TRACE (DFID)",
+        "id": "marker-i758pqv00",
+        "marker-color": "#6c6c6c",
+        "marker-size": "small",
+        "marker-symbol": "1",
+        "title": "Active Projects in Zimbabwe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          101.33789,
+          16.130261
+        ],
+        "type": "Point"
+      },
+      "id": "ci75bu62c021nhim57ung0p4u",
+      "properties": {
+        "description": "- <a href=\"http://dai.com/our-work/projects/thailand%E2%80%94sapan\">SAPAN</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc\">ARCC</a> (USAID)<br>- <a href=\"http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable\">PROGRESS</a> (USAID)",
+        "id": "marker-i75akuyh0",
+        "marker-color": "#6c6c6c",
+        "marker-size": "small",
+        "marker-symbol": "3",
+        "title": "Active Projects in Thailand"
       },
       "type": "Feature"
     }
   ],
   "id": "dai.l4pp7odf",
-  "ids": [
-    "ci62dj7to054ejylwfh1bwt7j",
-    "ci62dj7tq054fjylwl6enjwtu",
-    "ci62dj7tr054gjylwfbdeq053",
-    "ci62dj7ts054hjylwngumx0g8",
-    "ci682ey6w0166jsm5rhp49pfz",
-    "ci682qcsx01ztj9m5s9fxdovp",
-    "ci68dg86x01yxiwm39khm0wst",
-    "ci6jl8i4a00rpkrm7wo2f9t8f",
-    "ci6jl8i4c00rqkrm7dmx751oe",
-    "ci6jl8i4e00rrkrm7ir5sikfg",
-    "ci6jrxi4y00vskrm7lfwivw1d",
-    "ci6jrxi4z00vtkrm752e554ho",
-    "ci6jrxi5100vukrm7f4mrty3k",
-    "ci6jrxi5200vvkrm7ym7hfe7x",
-    "ci6jrxi5400vwkrm70e85ldah",
-    "ci6jrxi5500vxkrm7tjlsmr4l",
-    "ci6js689800p1kwm19zmomvs2",
-    "ci6js689900p2kwm1pf4fbjnh",
-    "ci6jt846r01a1k5m7u2apcfzj",
-    "ci6jt846s01a2k5m7hddzls8h",
-    "ci6jt846u01a3k5m7t97vo5kk",
-    "ci6jt846v01a4k5m7ehdoahss",
-    "ci6jvqkpn00tvjsm7vk593nl4",
-    "ci6jvqkpq00twjsm74boepxuu",
-    "ci6jvqkpr00txjsm7817ssgpr",
-    "ci6jvqkps00tyjsm7i0l4yhdw",
-    "ci6jvqkpt00tzjsm7avm9abzh",
-    "ci6jvqkpu00u0jsm7vt45mi9g",
-    "ci6jvqkpv00u1jsm7sbye7g4i",
-    "ci6jvqkpw00u2jsm73f4miz3p",
-    "ci6jvqkpx00u3jsm76714yegg",
-    "ci6jvqkpy00u4jsm7umrxxyvm",
-    "ci6jvqkpz00u5jsm799dnxr7j",
-    "ci6jvqkq000u6jsm71pkn7052",
-    "ci6jvqkq100u7jsm76ih58cz9",
-    "ci6jvqkq200u8jsm7mtxwrgq4",
-    "ci6jvqkq300u9jsm7843tgqu1",
-    "ci6jvqkq400uajsm7zolpkg7n",
-    "ci6jvqkq500ubjsm74tal051g",
-    "ci6jvqkq600ucjsm7id08u8gg",
-    "ci6jvqkq700udjsm789qt5s16",
-    "ci6jvqkq900uejsm7qeg1jg78",
-    "ci6jvqkqa00ufjsm70qq8pa6o",
-    "ci6jvqkqb00ugjsm7tdhufp4w",
-    "ci6jvqkqc00uhjsm789o5rose",
-    "ci6jvqkqd00uijsm7qecige1s",
-    "ci6jvqkqe00ujjsm7qf2472g5",
-    "ci6jvqkqf00ukjsm7zt4aaqh0",
-    "ci6jwces801e6krm5jhs79gfp",
-    "ci6jwces901e7krm5y3wmac6c",
-    "ci6jwcesa01e8krm582ufp379",
-    "ci6jwcesb01e9krm5b3tisbnr",
-    "ci6jwcesc01eakrm5xpbzhx1r",
-    "ci6jwcesd01ebkrm5eplgpzj0",
-    "ci6jwcese01eckrm5nl398int",
-    "ci6jwcesf01edkrm5k02m644a",
-    "ci6jwcesg01eekrm5p44tay7n",
-    "ci6jwcesh01efkrm5y6ju7vjc",
-    "ci6jwcesi01egkrm52cl7dqg1",
-    "ci6jwcesj01ehkrm5po3ru3bq",
-    "ci6jwcesk01eikrm5a2ywyi5s",
-    "ci6jwcesl01ejkrm56n8rd2c1",
-    "ci6jwcesm01ekkrm5zzazyqoo",
-    "ci6jwcesn01elkrm5mlszkvbg",
-    "ci6jwceso01emkrm5m0hqywzd",
-    "ci6jwcesp01enkrm5vs46lfya",
-    "ci6l1h3ew02vilum5xq253ipv",
-    "ci6l1h3ey02vjlum5748pwtai",
-    "ci6l1h3f002vklum50ew6nfkg",
-    "ci6l1h3f102vllum5dwfgxwh5",
-    "ci6l1h3f302vmlum51hqqun0v",
-    "ci6l1h3f402vnlum5aez9py7m",
-    "ci6l1h3f602volum5dsduxwhb",
-    "ci6l1h3f702vplum5gill4p6s",
-    "ci6l28p080429k5m7zihz0hsi",
-    "ci6l28p09042ak5m7q8als9lf",
-    "ci6l28p0a042bk5m72076y7br",
-    "ci6l28p0b042ck5m7avxpjbvt",
-    "ci6l28p0c042dk5m7a3f9cvmt",
-    "ci6l28p0d042ek5m7y3nlwbwc",
-    "ci6l28p0f042fk5m7xb3j5c4u",
-    "ci6l28p0g042gk5m7ek137dxw",
-    "ci6l28p0h042hk5m7bfrfkkeu",
-    "ci6l28p0i042ik5m7omd9jlii",
-    "ci6l28p0j042jk5m7lbjb31bx",
-    "ci6l2ndgi02w5lum5qidyvxjk",
-    "ci6l2ndgk02w6lum5id05bht3"
-  ],
   "type": "FeatureCollection"
 }

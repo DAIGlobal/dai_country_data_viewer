@@ -47,6 +47,7 @@
   [SOV_A3='MHL'],
   [SOV_A3='MUS'],
   [SOV_A3='FSM'],
+  [SOV_A3='MAR'],
   [SOV_A3='MDA'],
   [SOV_A3='MNG'],
   [SOV_A3='MOZ'],
@@ -91,9 +92,10 @@
   [SOV_A3='AZE'],
   [SOV_A3='ARM'],
   [SOV_A3='NGA'],
-  [SOV_A3='ZWE']
-  {polygon-fill:@new;}
+  [SOV_A3='ZWE']{
+  polygon-fill:@new;
   }
+}
   
 /*Inactive Countries*/
 #Countries::fill[zoom>=0]{
@@ -142,7 +144,6 @@
   [SOV_A3='LVA'],
   [SOV_A3='LSO'],
   [SOV_A3='LTU'],
-  [SOV_A3='MAR'],
   [SOV_A3='MEX'],
   [SOV_A3='MLI'],
   [SOV_A3='MNE'],
@@ -192,6 +193,7 @@
   [SOV_A3='CUB'],
   [SOV_A3='CHL'],
   [SOV_A3='SWE'],
-  [SOV_A3='ISR'],
-  {polygon-fill:@old;}
+  [SOV_A3='ISR'],{
+  polygon-fill:@old;
+  }
 }
