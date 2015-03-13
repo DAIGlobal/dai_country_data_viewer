@@ -289,8 +289,9 @@ China:
   SOV_A3: CH1
   Status: Active
   Projects: 
-    CEIL_Peaks:
+    Evidence_on_Demand:
       Name: International Waters Cooperation Catalytic Support to Advanced Interdisciplinary Capacity Development - Monitoring Evaluation Consultancy Service
+      URL: http://dai.com/our-work/projects/worldwide—evidence-demand-core-services
       Client: U.K. Department for International Development
       Start_Date: 2012
       End_Date: 2015
@@ -1673,8 +1674,10 @@ United_Kingdom:
   SOV_A3: GB1
   Status: Active
   Projects:
-    CEIL_PEAKS:
-      Name: CEIL PEAKS
+    Evidence_on_Demand:
+      Name: Evidence on Demand
+      URL: http://dai.com/our-work/projects/worldwide—evidence-demand-core-services
+      Client: U.K. Department for International Development  
 United_States:
   SOV_A3: US1
   Status: Active

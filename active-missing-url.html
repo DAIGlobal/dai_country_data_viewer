@@ -1,0 +1,38 @@
+---
+layout: page
+title: "Countries With Active Projects Missing a dai.com URL"
+published: true
+---
+<p>Here's a list of all projects in active countries that are missing a URL field.</p>
+<ul>
+{% for country_hash in site.data.countries %}
+  {% assign country_data = country_hash[1] %}
+    {% if country_data.Status == 'Active' %}
+      <ul>
+        <li><strong>{{ country_hash[0] }}</strong></li><!-- COUNTRY NAME -->
+        <li class="inset">
+          <ul>
+            {% if country_data.Projects %}
+              <li class="inset">
+                <ul>
+                  {% for project_hash in country_data.Projects %}
+                    {% assign project_data = project_hash[1] %}
+                    {% unless project_data.URL %}
+                      <li>{{ project_hash[0] }}</li>
+                      <li class="inset">
+                        <ul>
+                          <li>Name: <strong>{{ project_data.Name }}</strong></li>
+                          <li>Active: <strong>{{ project_data.Start_Date }} - {{ project_data.End_Date }}</strong></li>
+                          <li>Client: <strong>{{ project_data.Client }}</strong></li>
+                        </ul>
+                      </li>
+                    {% endunless %}
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
+          </ul>
+        </li>
+      </ul>
+    {% endif %}
+{% endfor %}
