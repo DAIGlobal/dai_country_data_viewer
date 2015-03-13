@@ -1,0 +1,25 @@
+---
+layout: default
+title: Home
+---
+<h1>The Data Behind the Map</h1>
+<p>Use this tool to explore and manage the data behind the DAI at a glance map. You can generate the <a href="http://geojson.org">GeoJSON</a> used to place the pins on the map, the <a href="https://www.mapbox.com/tilemill/docs/manual/carto">CartoCSS</a> used to shade active and inactive countries—or generate a host of more human-readable views of the data, like an <a href="/active-list/">outline of all country data</a> for countries with active projects.</p>
+<blockquote><p>All data is pulled from the <strong><a href="https://github.com/DAIGlobal/dai_country_data/blob/master/map_data.yml">DAI Country Data</a> YAML file on <a href="https://github.com/DAIGlobal">Github</a></strong>, which is updated via Sharepoint, Oracle, and ocassionally by hand—as needed.</p></blockquote>
+<iframe width='100%' height='500px' frameBorder='0' src='http://dai.com/extras/maps/index.html'></iframe>
+<hr>
+<h2 style="text-align: center;">Generate Data Files</h2>
+
+<h3><a href="/point-geojson/">Point GeoJSON</a></h3>
+<p>This will generate the GeoJSON used to place pins on the map. Properties include description, marker-color, symbol, size, title, and coordinates.</p>
+<h3><a href="/active-shades/">Active Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries active (dark-green) or inactive (light-green)—based on whether or not any active projects exist within the country object.</p>
+<h3><a href="/usaid-shades/">USAID Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from USAID.</p>
+<h3><a href="/dfid-shades/">DFID Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from DFID.</p>
+<h3><a href="/ec-shades/">EC Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from EC.</p>
+<hr>
+<h2 style="text-align: center;">Generate Human Readable Views</h2>
+<h3><a href="/active-list/">Active Country Data Outline</a></h3>
+<p>All country data for countries that contain active projects. Properties include country name, code, project name, acronym, client, start date, end date, dai.com url.</p>

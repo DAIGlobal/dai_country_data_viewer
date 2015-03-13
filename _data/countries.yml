@@ -1,0 +1,1825 @@
+---
+Afghanistan:
+  SOV_A3: AFG
+  Status: Active
+  Projects:
+    SHAHAR:
+      Name: Strong Hubs for Afghan Hope and Resilience
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94strong-hubs-afghan-hope-and-resilience-shahar
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2017
+    RADP_North:
+      Name: Regional Agricultural Development Program
+      URL: http://dai.com/our-work/projects/afghanistan-regional-agricultural-development-program-radp%E2%80%93north
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+    ALBA:
+      Name: Assistance to Legislative Bodies of Afghanistan
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-legislative-bodies-afghanistan-alba
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ABADE:
+      Name: Assistance in Building Afghanistan by Development Enterprise
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94assistance-building-afghanistan-development-enterprise-abade
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2016
+    SIKA_North:
+      Name: Stability in Key Areas North
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94stability-key-areas-north-sika-north
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2014
+    IDEA_NEW:
+      Name: 'Incentives Driving Economic Alternatives for the North, East, and West'
+      URL: http://dai.com/our-work/projects/afghanistan%E2%80%94incentives-driving-economic-alternatives-north-east-and-west-idea-new
+      Client: U.S. Agency for International Development
+      Start_Date: 2009
+      End_Date: 2015
+Albania: 
+  SOV_A3: ALB
+  Status: Inactive
+Algeria: 
+  SOV_A3: DZA
+  Status: Inactive
+American_Samoa: 
+  SOV_A3: US1 #Protectorate
+  Status: Active
+Andorra:
+  SOV_A3: AND
+  Status: None
+Angola:
+  SOV_A3: AGO
+  Status: Inactive
+Anguila: 
+  SOV_A3: GB1 #Protectorate
+  Status: Active
+Antigua_and_Barbuda:
+  SOV_A3: ATG
+  Status: None
+Argentina: 
+  SOV_A3: ARG
+  Status: Inactive
+Armenia: 
+  SOV_A3: ARM
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+Aruba:
+  SOV_A3: ABW
+  Status: None
+Australia: 
+  SOV_A3: AU1
+  Status: Inactive
+Austria: 
+  SOV_A3: AUT
+  Status: Inactive
+Azerbaijan: 
+  SOV_A3: AZE
+  Status: Active
+  Projects: 
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+Bahamas_The:
+  SOV_A3: BHS
+  Status: Inactive
+Bahrain:
+  SOV_A3: BHR
+  Status: Inactive
+Bangladesh:
+  SOV_A3: BGD
+  Status: Active
+  Projects:
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+    AVC:
+      Name: Agricultural Value Chains Program
+      URL: http://dai.com/our-work/projects/bangladesh%E2%80%94agricultural-value-chains-avc-program
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Barbados:
+  SOV_A3: BRB
+  Status: Inactive
+Belarus:
+  SOV_A3: BLR
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+Belgium:
+  SOV_A3: BEL
+  Status: Active
+  Projects:
+    ASiST_III:
+      Name: Tecnical Advisory Services for Social Transfers
+      Client: European Commission
+      Start_Date: 2015
+      End_Date: 2019
+    EU_ACP:
+      Name: European Union Microfinance Programme
+      URL: http://dai.com/our-work/projects/african-caribbean-and-pacific–european-union-microfinance-programme
+      Client: European Commission
+      Start_Date: 2011
+      End_Date: 2015
+Belgium_Luxembourg:
+  SOV_A3: BLX
+  Status: None
+Belize:
+  SOV_A3: BLZ
+  Status: None
+Benin:
+  SOV_A3: BEN
+  Status: Inactive
+Bermuda: 
+  SOV_A3: BMU
+  Status: Inactive
+Bhutan:
+  SOV_A3: BTN
+  Status: Active
+  Projects:
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016      
+Bolivia:
+  SOV_A3: BOL
+  Status: Inactive
+Bosnia_and_Herzegovina:
+  SOV_A3: BIH
+  Status: Active
+  Projects:
+    WeBSEFF_II:
+      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2009
+      End_Date: 2017
+Botswana:
+  SOV_A3: BWA
+  Status: Active
+  Projects:
+    SADC:
+      Name: Technical Assistance to the SADC Secretariat - institutional capacity development programme 
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+Br_Antr_Terr:
+  SOV_A3: BAT
+  Status: None
+Brazil:
+  SOV_A3: BRA
+  Status: Inactive
+British_Indian_Ocean_Ter:
+  SOV_A3: IOT
+  Status: None
+British_Virgin_Islands:
+  SOV_A3: GB1 #Protectorate
+  Status: Active
+Brunei: 
+  SOV_A3: BRN
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Bulgaria:
+  SOV_A3: BGR
+  Status: Inactive
+Burkina_Faso:
+  SOV_A3: BFA
+  Status: Inactive
+Burundi:
+  SOV_A3: BDI
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Cambodia:
+  SOV_A3: KHM
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    DI:
+      Name: Development Innovations
+      URL: http://dai.com/our-work/projects/cambodia%E2%80%94development-innovations
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2016
+    ARCC:
+      Name: Mekong Adaptation and Resilience to Climate Change
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016      
+Cameroon:
+  SOV_A3: CMR
+  Status: Inactive
+Canada:
+  SOV_A3: CAN
+  Status: Inactive
+Cape_Verde:
+  SOV_A3: CPV
+  Status: Active
+  Projects:
+    LAND:
+      Name: Field Operations Manual and Completing Systematic Land Rights and Boundaries Clarification
+      Client: Millennium Challenge Corporation
+      Start_Date: 2014
+      End_Date: 2015
+Cayman_Islands:
+  SOV_A3: CYM
+  Status: None
+Central_African_Republic:
+  SOV_A3: CAF
+  Status: Inactive
+Chad: 
+  SOV_A3: TCD
+  Status: Inactive
+Chile:
+  SOV_A3: CHL
+  Status: Inactive
+China:
+  SOV_A3: CH1
+  Status: Active
+  Projects: 
+    CEIL_Peaks:
+      Name: International Waters Cooperation Catalytic Support to Advanced Interdisciplinary Capacity Development - Monitoring Evaluation Consultancy Service
+      Client: U.K. Department for International Development
+      Start_Date: 2012
+      End_Date: 2015
+Christmas_Island:
+  SOV_A3: CXR
+  Status: None
+Cocos_Keeling_Islands:
+  SOV_A3: CCK
+  Status: None
+Colombia:
+  SOV_A3: COL
+  Status: Active
+  Projects:
+    ABC_LA:
+      Name: Addressing Biodiversity-Social Conflict in Latin America
+      URL: http://dai.com/our-work/projects/peru%E2%80%94addressing-biodiversity-social-conflict-latin-america-abc-la
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Comoros:
+  SOV_A3: COM
+  Status: None
+Congo_Dem_Rep:
+  SOV_A3: COD
+  Status: Active
+  Projects: 
+    ROADS_II_ME:
+      Name: 'Roads in the East of DRC Phase 2: Monitoring and Evaluation, Environmental, and Social Management and Maintenance'
+      URL: http://dai.com/our-work/projects/democratic-republic-congo%E2%80%94roads-east-drc-phase-2-monitoring-and-evaluation
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2015
+    SSAPR:
+      Name: Security Sector Accountability and Police Reform Programme 
+      URL: http://dai.com/our-work/projects/democratic-republic-congo%E2%80%94security-sector-accountability-and-police-reform
+      Client: U.K. Department for International Development
+      Start_Date: 2009
+      End_Date: 2015
+Congo_Rep:
+  SOV_A3: COG
+  Status: Inactive
+Cook_Islands:
+  SOV_A3: COK
+  Status: None
+Costa_Rica:
+  SOV_A3: CRI
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018
+Cote_d_Ivoire:
+  SOV_A3: CIV
+  Status: Inactive
+Croatia:
+  SOV_A3: HRV
+  Status: Active
+  Projects:
+    WeBSEFF:
+      Name: Western Balkans Sustainable Energy Credit Line Facility
+      URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2009
+      End_Date: 2017
+Cuba:
+  SOV_A3: CUB
+  Status: Inactive
+Cyprus:
+  SOV_A3: CYP
+  Status: Inactive
+Czech_Republic:
+  SOV_A3: CZE
+  Status: Inactive
+Denmark:
+  SOV_A3: DN1
+  Status: Inactive
+Djibouti:
+  SOV_A3: DJI
+  Status: Inactive
+Dominica:
+  SOV_A3: DMA
+  Status: None
+Dominican_Republic:
+  SOV_A3: DOM
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018
+East_Timor:
+  SOV_A3: TMP
+  Status: None
+Ecuador:
+  SOV_A3: ECU
+  Status: Inactive
+Egypt_Arab_Rep:
+  SOV_A3: EGY
+  Status: Active
+  Projects:
+    NBE:
+      Name: National Bank of Egypt MSME Lending Capacity Building
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2014
+      End_Date: 2016
+El_Salvador:
+  SOV_A3: SLV
+  Status: Active
+  Projects:
+    FPEMP:
+      Name: Fiscal Policy and Expenditure Management Program
+      URL: http://dai.com/our-work/projects/el-salvador%E2%80%94fiscal-policy-and-expenditure-management-program-fpemp
+      Client:  U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2015
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018
+    RTMA:
+      Name: Regional Trade and Market Alliances
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2016
+Equatorial_Guinea:
+  SOV_A3: GNQ
+  Status: Inactive
+Eritrea:
+  SOV_A3: ERI
+  Status: Inactive
+Estonia:
+  SOV_A3: EST
+  Status: Inactive
+Ethiopia_excludes_Eritrea_:
+  SOV_A3: ETH
+  Status: Active
+  Projects:
+    LIFT:
+      Name: Land Investment for Transformation
+      URL: http://dai.com/our-work/projects/ethiopia%E2%80%94land-investment-transformation-lift-0\
+      Client:  U.K. Department for International Development
+      Start_Date: 2014
+      End_Date:  2019
+    PEPE: 
+      Name: Private Enterprise Programme Ethiopia
+      URL: http://dai.com/our-work/projects/ethiopia%E2%80%94private-enterprise-programme-ethiopia-pepe
+      Client:  U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2020
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+  Timeline: http://dai.com/extras/maps/timelines/ethiopia.pdf
+Faeroe_Islands:
+  SOV_A3: FRO
+  Status: None
+Falkland_Island:
+  SOV_A3: FLK
+  Status: None
+Fiji:
+  SOV_A3: FJI
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+    RAS:
+      Name: Regional Advisory Services
+      Client: Australian Department of Foreign Affairs and Trade
+      Start_Date: 2014
+      End_Date: 2016
+Finland:
+  SOV_A3: FI1
+  Status: Inactive
+Fm_Panama_Cz:
+  SOV_A3: PCZ
+  Status: None
+Fm_Rhod_Nyas:
+  SOV_A3: ZW1
+  Status: None
+Fm_Tanganyik:
+  SOV_A3: TAN
+  Status: None
+Fm_Vietnam_Dr:
+  SOV_A3: VDR
+  Status: None
+Fm_Vietnam_Rp:
+  SOV_A3: SVR
+  Status: None
+Fm_Zanz_Pemb:
+  SOV_A3: ZPM
+  Status: None
+Fr_Tr:
+  SOV_A3: ATF
+  Status: None
+France:
+  SOV_A3: FR1
+  Status: Inactive
+Free_Zones:
+  SOV_A3: FRE
+  Status: None
+French_Guiana:
+  SOV_A3: GUF
+  Status: None
+French_Polynesia:
+  SOV_A3: PYF
+  Status: None
+Gabon:
+  SOV_A3: GAB
+  Status: Inactive
+Gambia_The:
+  SOV_A3: GMB
+  Status: Inactive
+Georgia:
+  SOV_A3: GEO
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+Germany:
+  SOV_A3: DEU
+  Status: Inactive
+Ghana:
+  SOV_A3: GHA
+  Status: Active
+  Projects: 
+    Africa_Lead:
+      Name: Africa Lead II
+      URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    MADE:
+      Name: Market Development Programme in the North
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    WRCF:
+      Name: Ghana Western Coastal Region Foundation
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2015
+Gibraltar:
+  SOV_A3: GIB
+  Status: None
+Greece:
+  SOV_A3: GRC
+  Status: Inactive
+Greenland:
+  SOV_A3: GRL
+  Status: None
+Grenada:
+  SOV_A3: GRD
+  Status: Inactive
+Guadeloupe: 
+  SOV_A3: GLP
+  Status: None
+Guam: #Protectorage
+  SOV_A3: US1
+  Status: None
+Guatemala:
+  SOV_A3: GTM
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018
+    LGP:
+      Name: Guatemala NEXOS LOCALES
+      URL: http://dai.com/our-work/projects/guatemala%E2%80%94nexos-locales
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+Guinea:
+  SOV_A3: GIN
+  Status: Inactive
+Guinea_Bissau:
+  SOV_A3: GNB
+  Status: Inactive
+Guyana:
+  SOV_A3: GUY
+  Status: Inactive
+Haiti:
+  SOV_A3: HTI
+  Status: Active
+  Projects:
+    AVANSE:
+      Name: 'Appui a la Valorisation du potentiel Agricole du Nord, a la Securite Economique et Environnementale'
+      URL: http://dai.com/our-work/projects/haiti%E2%80%94appui-la-valorisation-du-potentiel-agricole-du-nord-la-securite-economique
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Holy_See:
+  SOV_A3: VAT
+  Status: None
+Honduras:
+  SOV_A3: HND
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018
+    ProParque:
+      Name: ProParque
+      URL: http://dai.com/our-work/projects/honduras%E2%80%94proparque
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+Hong_Kong_China:
+  SOV_A3: HKG
+  Status: None
+Hungary:
+  SOV_A3: HUN
+  Status: Inactive
+Iceland:
+  SOV_A3: ISL
+  Status: Inactive
+India:
+  SOV_A3: IND
+  Status: Active
+  Projects:
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+Indonesia:
+  SOV_A3: IDN
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    IUWASH:
+      Name: Urban Water, Sanitation, and Hygiene
+      URL: http://dai.com/our-work/projects/indonesia%E2%80%94urban-water-sanitation-and-hygiene-iuwash
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+Iran_Islamic_Rep:
+  SOV_A3: IRN
+  Status: Inactive
+Iraq:
+  SOV_A3: IRQ
+  Status: Inactive
+Ireland:
+  SOV_A3: IRL
+  Status: Inactive
+Israel:
+  SOV_A3: ISR
+  Status: Inactive
+  # Projects:
+  #   EGP:
+  #     Name: Palestine Effective Governance Program
+  #     Client: U.S. Agency for International Development
+  #     Start_Date: 2013
+  #     End_Date: 2017
+Italy:
+  SOV_A3: ITA
+  Status: Inactive
+Jamaica:
+  SOV_A3: JAM
+  Status: Inactive
+Japan:
+  SOV_A3: JPN
+  Status: Inactive
+Jhonston_Island:
+  SOV_A3: JTN
+  Status: None
+Jordan:
+  SOV_A3: JOR
+  Status: Active
+  Projects:
+    WFD:
+      Name: Workforce Development Project
+      URL: http://dai.com/our-work/projects/jordan%E2%80%94workforce-development-wfd-project
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    JCP:
+      Name: Jordan Competitiveness Program
+      URL: http://dai.com/our-work/projects/jordan%E2%80%94competitiveness-program-jcp
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    JFRBA:
+      Name: Jordan Fiscal Reform Bridge Activity
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2015
+    Cowater:
+      Name: Cowater
+      Client: Millennium Challenge Corporation
+      Start_Date: 2014
+      End_Date: 2017
+Kazakhstan:
+  SOV_A3: KAZ
+  Status: Inactive
+Kenya:
+  SOV_A3: KEN
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    Africa_Lead:
+      Name: Africa Lead II
+      URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    DAP:
+      Name: Drivers of Accountability Programme
+      URL: http://dai.com/our-work/projects/kenya%E2%80%94drivers-accountability-programme-dap
+      Client: 
+        - U.K. Department of International Development
+        - Canadian International Development Agency
+        - Danish International Development Agency
+      Start_Date: 2010
+      End_Date: 2015
+    FIRM:
+      Name: Financial Inclusion for Rural Microenterprises
+      URL: http://dai.com/our-work/projects/kenya%E2%80%94financial-inclusion-rural-microenterprises-firm
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_date: 2015
+    HSNP:
+      Name: Hunger Safety Net Programme Phase
+      URL: http://dai.com/our-work/projects/kenya%E2%80%94hunger-safety-net-programme-phase-2-hsnp2
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2017
+    StARK:
+      Name: Service Provider for Strengthening Adaptation and Resilience to Climate Change in Kenya Plus
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2016
+Kiribati:
+  SOV_A3: KIR
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015    
+Korea_Dem_Rep:
+  SOV_A3: PRK
+  Status: Inactive
+Korea_Rep:
+  SOV_A3: KOR
+  Status: Inactive
+Kosov:
+  SOV_A3: KOS
+  Status: Inactive
+Kuwait:
+  SOV_A3: KWT
+  Status: Inactive
+Kyrgyz_Republic:
+  SOV_A3: KGZ
+  Status: Active
+  Projects:
+    KPSP:
+      Name: Kyrgyzstan Parliamentary Strengthening Program
+      URL: http://dai.com/our-work/projects/kyrgyzstan%E2%80%94parliamentary-strengthening-program-kpsp
+      Client:
+        - U.K. Department for International Development
+        - U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2015
+Lao_PDR:
+  SOV_A3: LAO
+  Status: Active
+  Projects:
+    ARCC:
+      Name: Mekong Adaptation and Resilience to Climate Change
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016      
+    PROGRESS:
+      Name: ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Latvia:
+  SOV_A3: LVA
+  Status: Inactive
+Lebanon:
+  SOV_A3: LBN
+  Status: Active
+  Projects:
+    LIVCD:
+      Name: Lebanon Industry Value Chain Development
+      URL: http://dai.com/our-work/projects/lebanon%E2%80%94industry-value-chain-development-livcd
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2017
+    LWWSS:
+      Name: Water and Wastewater Sector Support
+      URL: http://dai.com/our-work/projects/lebanon%E2%80%94water-and-wastewater-sector-support-lwwss
+      Client: U.S. Agency for International Development
+      Start_Date: 2009
+      End_Date: 2015
+Lesotho:
+  SOV_A3: LSO
+  Status: Inactive
+Liberia:
+  SOV_A3: LBR
+  Status: Active
+  Projects:
+    FED:
+      Name: Food and Enterprise Development Program
+      URL: http://dai.com/our-work/projects/liberia%E2%80%94food-and-enterprise-development-program-fed
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+    FLEGT:
+      Name: Support Unit for Liberia FLEGT Voluntary Partnership Agreement
+      URL: http://dai.com/our-work/projects/liberia%E2%80%94support-unit-liberia-flegt-voluntary-partnership-agreement-vpa
+      Client:  U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2017
+  Timeline: http://dai.com/extras/maps/timelines/liberia.pdf
+Libya:
+  SOV_A3: LBY
+  Status: Inactive
+Liechtenstein:
+  SOV_A3: LIE
+  Status: None
+Lithuania:
+  SOV_A3: LTU
+  Status: Inactive
+Luxembourg: LUX
+Macao:
+  SOV_A3: MAC
+  Status: None
+Macedonia_FYR:
+  SOV_A3: MKD
+  Status: Active
+  Projects:
+    WeBSEFF_II:
+      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2009
+      End_Date: 2017
+Madagascar:
+  SOV_A3: MDG
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+Malawi:
+  SOV_A3: MWI
+  Status: Active
+  Projects:
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    INVC:
+      Name: Feed the Future-Integrating Nutrition into Value Chains
+      URL: http://dai.com/our-work/projects/malawi%E2%80%94integrating-nutrition-value-chains
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2015
+    Tilitonse_Fund:
+      Name: Tilitonse Fund
+      URL: http://dai.com/our-work/projects/malawi%E2%80%94tilitonse-fund
+      Client: U.K. Department for International Development
+      Start_Date: 2011
+      End_Date: 2018
+Malaysia:
+  SOV_A3: MYS
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Maldives:
+  SOV_A3: MDV
+  Status: Active
+  Projects:
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+Mali:
+  SOV_A3: MLI
+  Status: Inactive
+Malta:
+  SOV_A3: MLT
+  Status: None
+Marshall_Islands:
+  SOV_A3: MHL
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Martinique:
+  SOV_A3: MTQ
+  Status: None
+Mauritania:
+  SOV_A3: MRT
+  Status: Inactive
+Mauritius:
+  SOV_A3: MUS
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+Mexico:
+  SOV_A3: MEX
+  Status: Inactive
+Micronesia_Fed_Sts:
+  SOV_A3: FSM
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Midway_Islands:
+  SOV_A3: MID
+  Status: None
+Moldova:
+  SOV_A3: MDA
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+    ACED:
+      Name: Agricultural Competitiveness and Enterprise Development Project
+      URL: http://dai.com/our-work/projects/moldova%E2%80%94agricultural-competitiveness-and-enterprise-development-project-aced
+      Client:
+        - U.S. Agency for International Development
+        - Millennium Challenge Corporation
+      Start_Date: 2011
+      End_Date: 2016
+Monaco:
+  SOV_A3: MCO
+  Status: None
+Mongolia:
+  SOV_A3: MNG
+  Status: Active
+  Projects:
+    MDA:
+      Name: Mongolia MDA-SME Leasing Policy Initiative
+      Start_Date: 2015
+      End_Date: 2016
+Montserrat:
+  SOV_A3: MSR
+  Status: Inactive
+Montenegro:
+  SOV_A3: MNE
+  Status: Inactive
+Morocco: 
+  SOV_A3: MAR
+  Status: Inactive
+Mozambique:
+  SOV_A3: MOZ
+  Status: Active
+  Projects:
+    INOVAGRO_II:
+      Name: Innovation for Agribusiness Private Sector-Led Rural Growth in Northern Mozambique 
+      URL: http://dai.com/our-work/projects/mozambique%E2%80%94innovation-agribusiness-inovagro
+      Client: Swiss Agency for Development and Cooperation
+      Start_Date: 2014
+      End_Date: 2018
+    ESA:
+      Name: FoodTrade ESA
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    SPEED:
+      Name: Support Program for Economic and Enterprise Development 
+      URL: http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed
+      Client: U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2016
+    DIALOGO:
+      Name: Democratic Governance Support Programme
+      URL: http://dai.com/our-work/projects/mozambique%E2%80%94democratic-governance-support-programme-dgsp
+      Client: The U.K. Department for International Development
+      Start_Date: 2012
+      End_Date: 2017
+    FSD:
+      Name: Financial Sector Deepening
+      URL: http://dai.com/our-work/projects/zambia—financial-sector-deepening-zambia-fsdz
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2019
+Myanmar:
+  SOV_A3: MMR
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    Kann_Let:
+      Name: Kann Let Program
+      URL: http://dai.com/our-work/projects/burma%E2%80%94kann-let-program
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2016
+Namibia:
+  SOV_A3: NAM
+  Status: Inactive
+Nauru:
+  SOV_A3: NRU
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Nepal:
+  SOV_A3: NPL
+  Status: Active
+  Projects:
+    RAP:
+      Name: Rural Access Programme
+      URL: http://dai.com/our-work/projects/nepal%E2%80%94rural-access-programme-rap
+      Client: U.K. Department of International Development
+      Start_Date: 2013
+      End_Date: 2017
+    NRRC:
+      Name: Nepal Risk Reduction Consortium Nationwide Risk Assessment
+      Start_Date: 2014
+      End_Date: 2015
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+Netherlands:
+  SOV_A3: NL1
+  Status: Inactive
+Netherlands_Antilles:
+  SOV_A3: ANT
+  Status: None
+New_Caledonia:
+  SOV_A3: NCL
+  Status: None
+New_Zealand:
+  SOV_A3: NZL
+  Status: None
+Nicaragua:
+  SOV_A3: NIC
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018      
+Niger:
+  SOV_A3: NER
+  Status: Inactive
+Nigeria:
+  SOV_A3: NGA
+  Status: Active
+  Projects:
+    MADE:
+      Name: Market Development Programme for the Niger Delta
+      URL: http://dai.com/our-work/projects/nigeria—market-development-programme-made
+      Start_Date: 2013
+      End_Date: 2018
+      Client: U.K. Department for International Development
+    PDF:
+      Name: Policy Develpment Facility
+      Start_Date: 2011 
+      End_Date: 2015
+      Client: U.K. Department for International Development
+    FEPAR:
+      Name: Federal Public Administration Reform
+      Start_Date: 2011
+      End_Date: 2015
+      Client: U.K. Department for International Development
+    SPARC:
+      Name: State Partnership for Accountability Responsiveness and Capability
+      URL: http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc
+      Start_Date: 2008
+      End_Date: 2015
+Niue:
+  SOV_A3: NIU
+  Status: None
+Norfolk_Island:
+  SOV_A3: NFK
+  Status: None
+Northern_Mariana_Islands:
+  SOV_A3: US1 #Protectorate
+  Status: None
+Norway:
+  SOV_A3: NOR
+  Status: Inactive
+Oman:
+  SOV_A3: OMN
+  Status: Inactive
+Pacific_Islands:
+  SOV_A3: PCE
+  Status: None
+Pakistan:
+  SOV_A3: PAK
+  Status: Active
+  Projects:
+    EDACE:
+      Name: Enhanced Democratic Accountability and Civic Engagement 
+      URL: http://dai.com/our-work/projects/pakistan%E2%80%94enhanced-democratic-accountability-and-civic-engagement-edace
+      Client: U.K. Foreign and Commonwealth Office
+      Start_Date: 2013
+      End_Date: 2015
+    TEP:
+      Name: Transforming Education in Pakistan
+      URL: http://dai.com/our-work/projects/pakistan%E2%80%94transforming-education-pakistan-tep
+      Client: U.K. Department for International Development
+      Start_Date: 2012
+      End_Date: 2016
+    AAWAZ:
+      Name: Voice and Accountability Programme
+      URL: http://dai.com/our-work/projects/pakistan%E2%80%94aawaz-voice-and-accountability-programme
+      Client: U.K. Department for International Development
+      Start_Date: 2012
+      End_Date: 2017
+    Ilm_Ideas:
+      Name: Ilm Ideas
+      URL: http://dai.com/our-work/projects/pakistan%E2%80%94education-voice-and-accountability-fund
+      Client: U.K. Department for International Development
+      Start_Date: 2012
+      End_Date: 2015
+    KPG:
+      Name: Pakistan Khyber Pakhtunkhwa Governance Program
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2019
+Palau:
+  SOV_A3: PLW
+  Status: None
+Palestine:
+  SOV_A3: PSE
+  Status: Active
+  Projects:
+    PMDP:
+      Name: Palestinian Market Development Programme
+      URL: http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp
+      Client: 
+        - UK Department for International Development
+        - European Union
+        - Palestinian Ministry of Economics
+      Start_Date: 2013
+      End_Date: 2019
+    # EGP:
+    #   Name: Palestine Effective Governance Program
+    #   Client: U.S. Agency for International Development
+    #   Start_Date: 2013
+    #   End_Date: 2017
+    Compete:
+      Name: The Compete Project
+      URL: http://dai.com/our-work/projects/palestine%E2%80%94-compete-project
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+Panama:
+  SOV_A3: PAN
+  Status: Active
+  Projects:
+    RCCP:
+      Name: Regional Climate Change Program
+      Start_Date: 2013
+      End_Date: 2018 
+    EU_PAN:
+      Name: Asistencia tecnica a un proyecto de apoyo a la cohesion social en Panama
+      Client: European Commission
+      Start_Date: 2011
+      End_Date: 2016
+Papua_New_Guinea:
+  SOV_A3: PNG
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+    PBMA:
+      Name: Specialist supporting performance benchmarking and mutual accountability for Australia's assistance to Bougainville
+      Client: Australian Department of Foreign Affairs and Trade
+      Start_Date: 2015
+      End_Date: 2015
+Paraguay:
+  SOV_A3: PRY
+  Status: Inactive
+Pen_Malaysia:
+  SOV_A3: PMY
+  Status: None
+Peru:
+  SOV_A3: PER
+  Status: Active
+  Projects:
+    ABC_LA:
+      Name: Addressing Biodiversity-Social Conflict in Latin America
+      URL: http://dai.com/our-work/projects/peru%E2%80%94addressing-biodiversity-social-conflict-latin-america-abc-la
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Philippines:
+  SOV_A3: PHL
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    FPI:
+      Name: Facilitating Public Investment
+      URL: http://dai.com/our-work/projects/philippines%E2%80%94facilitating-public-investment-fpi
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ENGAGE:
+      Name: Enhancing Governance, Accountability, and Engagement 
+      URL: http://dai.com/our-work/projects/philippines%E2%80%94enhancing-governance-accountability-and-engagement-engage
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Pitcairn:
+  SOV_A3: PCN
+  Status: None
+Poland:
+  SOV_A3: POL
+  Status: Active
+  Projects:
+    PolSEFF:
+      Name: Polish Sustainable Energy Financing Facility
+      URL: http://dai.com/our-work/projects/poland%E2%80%94polish-sustainable-energy-financing-facility-polseff
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2010
+      End_Date: 2016
+Portugal:
+  SOV_A3: PRT
+  Status: Inactive
+Puerto_Rico:
+  SOV_A3: US1 #Protectorate
+  Status: None
+Qatar:
+  SOV_A3: QAT
+  Status: Inactive
+Reunion:
+  SOV_A3: REU
+  Status: None
+Romania:
+  SOV_A3: ROU
+  Status: Inactive
+Russian_Federation:
+  SOV_A3: RUS
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+Rwanda:
+  SOV_A3: RWA
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    HICD:
+      Name: Human and Institutional Capacity Development Project
+      URL: http://dai.com/our-work/projects/rwanda%E2%80%94human-and-institutional-capacity-development-project-hicd
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2017
+    SSENNP:
+      Name: Strengthening Sustainable Ecotourism in and around Nyungwe National Park
+      URL: http://dai.com/our-work/projects/rwanda%E2%80%94strengthening-sustainable-ecotourism-and-around-nyungwe-national-park
+      Client: U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2015
+Ryukyu_Is:
+  SOV_A3: RYU
+  Status: None
+Sabah:
+  SOV_A3: SBH
+  Status: None
+Saint_Helena:
+  SOV_A3: SHN
+  Status: None
+Saint_Kitts_Nevis_Anguilla_Aru:
+  SOV_A3: KN1
+  Status: None
+Saint_Pierre_and_Miquelon:
+  SOV_A3: SPM
+  Status: None
+Samoa:
+  SOV_A3: WSM
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+San_Marino:
+  SOV_A3: SMR
+  Status: None
+Sao_Tome_and_Principe:
+  SOV_A3: STP
+  Status: Inactive
+Sarawak:
+  SOV_A3: SWK
+  Status: None
+Saudi_Arabia:
+  SOV_A3: SAU
+  Status: Inactive
+Senegal:
+  SOV_A3: SEN
+  Status: Inactive
+Serbia:
+  SOV_A3: SRB
+  Status: Active
+  Projects:
+    SEEAP:
+      Name: Preparation of Second Energy Efficiency Action Plan and Development of Energy Indicators
+      URL: http://dai.com/our-work/projects/serbia%E2%80%94preparation-second-energy-efficiency-action-plan-and-development-energy
+      Client: European Commission
+      Start_Date: 2014
+      End_Date: 2015
+    WeBSEFF_II:
+      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
+      Client: European Bank for Reconstruction and Development
+      Start_Date: 2009
+      End_Date: 2017
+Seychelles:
+  SOV_A3: SYC
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+Sierra_Leone:
+  SOV_A3: SLE
+  Status: Active
+  Projects:
+    ASJP:
+      Name: Access to Security and Justice Programme
+      URL: http://dai.com/our-work/projects/sierra-leone%E2%80%94access-security-and-justice-programme
+      Client: U.K. Department for International Development
+      Start_Date: 2011
+      End_Date: 2015
+SIKKIM:
+  SOV_A3: SIK
+  Status: None
+Singapore:
+  SOV_A3: SGP
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Slovak_Republic:
+  SOV_A3: SVK
+  Status: Inactive
+Slovenia:
+  SOV_A3: SVN
+  Status: Inactive
+Solomon_Islands:
+  SOV_A3: SLB
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Somaliland:
+  SOV_A3: SOL
+  Status: Active
+  Projects:
+    PEG:
+      Name: Partnership for Economic Growth
+      URL: http://dai.com/our-work/projects/somalia%E2%80%94partnership-economic-growth-program
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2015
+    TIS:
+      Name: Transition Initiatives for Stabilization
+      URL: http://dai.com/our-work/projects/somalia%E2%80%94transition-initiatives-stabilization-tis
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+Somalia:
+  SOV_A3: SOM
+  Status: Active
+  Projects:
+    PEG:
+      Name: Partnership for Economic Growth
+      URL: http://dai.com/our-work/projects/somalia%E2%80%94partnership-economic-growth-program
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2015
+    TIS:
+      Name: Transition Initiatives for Stabilization
+      URL: http://dai.com/our-work/projects/somalia%E2%80%94transition-initiatives-stabilization-tis
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016
+South_Africa:
+  SOV_A3: ZAF
+  Status: Inactive
+Spain:
+  SOV_A3: ESP
+  Status: Inactive
+Sri_Lanka:
+  SOV_A3: LKA
+  Status: Active
+  Projects:
+    SAARC:
+      Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
+      URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
+      Client: European Commission
+      Start_Date: 2013
+      End_Date: 2016
+St_Kitts_and_Nevis:
+  SOV_A3: KNA
+  Status: None
+St_Lucia:
+  SOV_A3: LCA
+  Status: None
+St_Vincent_and_the_Grenadines:
+  SOV_A3: VCT
+  Status: None
+Sudan:
+  SOV_A3: SDN
+  Status: Inactive
+Suriname:
+  SOV_A3: SUR
+  Status: None
+Svalbard_and_Jan_Mayen_Is:
+  SOV_A3: SJM
+  Status: None
+Swaziland:
+  SOV_A3: SWZ
+  Status: Inactive
+Sweden:
+  SOV_A3: SWE
+  Status: Inactive
+Switzerland:
+  SOV_A3: CHE
+  Status: Inactive
+Syrian_Arab_Republic:
+  SOV_A3: SYR
+  Status: Inactive
+Taiwan:
+  SOV_A3: TWN
+  Status: None
+Tajikistan:
+  SOV_A3: TJK
+  Status: Active
+  Projects:
+    FFP:
+      Name: Family Farming Program
+      URL: http://dai.com/our-work/projects/tajikistan%E2%80%94usaid-family-farming-program-ffp
+      Client: U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2015
+Tanzania:
+  SOV_A3: TZA
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    DSMGP:
+      Name: Market Study and Economic Financial and Credit Analysis of the Proposed Dar es Salaam Maritime Gateway Program
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2015
+    SESA:
+      Name: Strategic Environmental and Social Assessment
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2015
+Thailand:
+  SOV_A3: THA
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ARCC:
+      Name: Mekong Adaptation and Resilience to Climate Change
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016      
+    Sapan:
+      Name: Sapan
+      URL: http://dai.com/our-work/projects/thailand%E2%80%94sapan
+      Client: U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2015
+Timor_leste:
+  SOV_A3: TLS
+  Status: Active
+  Projects:
+    DAC:
+      Name: Developing Agricultural Communities/Desenvolve Agricultura Comunitária
+      URL: http://dai.com/our-work/projects/timor-leste%E2%80%94developing-agricultural-communitiesdesenvolve-agricultura-comunitaria
+      Client: U.S. Agency for International Development
+      Start_Date: 2010
+      End_Date: 2015
+Togo:
+  SOV_A3: TGO
+  Status: Inactive
+Tokelau:
+  SOV_A3: TKL
+  Status: None
+Tonga:
+  SOV_A3: TON
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Trinidad_and_Tobago:
+  SOV_A3: TTO
+  Status: None
+Tunisia:
+  SOV_A3: TUN
+  Status: Inactive
+Turkey:
+  SOV_A3: TUR
+  Status: Inactive
+Turkmenistan:
+  SOV_A3: TKM
+  Status: Inactive
+Turks_and_Caicos_Isl:
+  SOV_A3: GB1 #Protectorate
+  Status: None
+Tuvalu:
+  SOV_A3: TUV
+  Status: None
+Uganda:
+  SOV_A3: UGA
+  Status: Active
+  Projects:
+    TIH:
+      Name: East Africa Trade and Investment Hub
+      URL: http://dai.com/our-work/projects/east-africa%E2%80%94trade-and-investment-hub-tih
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    GAPP:
+      Name: 'Governance, Accountability, Participation and Performance Program'
+      URL: http://dai.com/our-work/projects/uganda%E2%80%94governance-accountability-participation-and-performance-program-gapp
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2016
+Ukraine:
+  SOV_A3: UKR
+  Status: Active
+  Projects:
+    Clima_East: 
+      Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
+      URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
+      Client: European Commission
+      Start_Date: 2012
+      End_Date: 2016
+United_Arab_Emirates:
+  SOV_A3: ARE
+  Status: Inactive
+United_Kingdom:
+  SOV_A3: GB1
+  Status: Active
+  Projects:
+    CEIL_PEAKS:
+      Name: CEIL PEAKS
+United_States:
+  SOV_A3: US1
+  Status: Active
+  Projects:
+    P&R:
+      Name: Preparedness and Response
+      URL: http://dai.com/our-work/projects/worldwide%E2%80%94preparedness-and-response-pr
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    Africa_Lead:
+      Name: Africa Lead II
+      URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    FANTA:
+      Name: Food and Nutrition Technical Assistance Project
+      URL: http://dai.com/our-work/projects/worldwide%E2%80%94food-and-nutrition-technical-assistance-project-iii-fanta-iii
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2016
+    CDI:
+      Name: Center for Development Innovation Professional Management Services
+      URL: http://dai.com/our-work/projects/worldwide%E2%80%94center-development-innovation-professional-management-services
+      Client: U.S. Agency for International Development
+      Start_Date: 2014
+      End_Date: 2018
+    Servir:
+      Name: Cultivating Use of Better Information Activity
+      URL: http://dai.com/our-work/projects/worldwide%E2%80%94servir-program-demand-activity
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2015
+    FABRI:
+      Name: Further Advancing the Blue Revolution Initiative
+      URL: http://dai.com/our-work/projects/middle-east-and-north-africa%E2%80%94further-advancing-blue-revolution-initiative-fabri
+      Client: U.S. Agency for International Development
+      Start_Date: 2007
+      End_Date: 2016
+    HFG:
+      Name: Health Finance and Governance
+      URL: http://dai.com/our-work/projects/worldwide%E2%80%94health-financing-and-governance
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2017
+Uruguay:
+  SOV_A3: URY
+  Status: Inactive
+UsMscPacI:
+  SOV_A3: USP
+  Status: None
+Uzbekistan:
+  SOV_A3: UZB
+  Status: Active
+  Projects:
+    AgLinks_Plus:
+      Name: Agricultural Linkages Plus
+      URL: http://dai.com/our-work/projects/uzbekistan%E2%80%94aglinks-plus
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2015
+Vanuatu:
+  SOV_A3: VUT
+  Status: Active
+  Projects:
+    C_CAP:
+      Name: Coastal Community Adaptation Project
+      URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
+      Client: World Bank
+      Start_Date: 2012
+      End_Date: 2015
+Venezuela:
+  SOV_A3: VEN
+  Status: Inactive
+Vietnam:
+  SOV_A3: VNM
+  Status: Active
+  Projects:
+    PROGRESS:
+      Name: 'ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security'
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ARCC:
+      Name: Mekong Adaptation and Resilience to Climate Change
+      URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
+      Client: U.S. Agency for International Development
+      Start_Date: 2011
+      End_Date: 2016      
+    PDSP:
+      Name: USAID Persons with Disabilities Support Program
+      URL: http://dai.com/our-work/projects/vietnam%E2%80%94usaid-program-comprehensive-and-integrated-support-people-disabilities
+      Client: U.S. Agency for International Development
+      Start_Date: 2012
+      End_Date: 2015
+Virgin_Islands:
+  SOV_A3: VIR
+  Status: None
+Wake_Island:
+  SOV_A3: WAK
+  Status: None
+Wallis_and_Futura_Isl:
+  SOV_A3: WLF
+  Status: None
+Western_Sahara:
+  SOV_A3: ESH
+  Status: None
+Yemen_Democratic:
+  SOV_A3: YDR
+  Status: None
+Yemen_Rep:
+  SOV_A3: YEM
+  Status: Inactive
+Zambia:
+  SOV_A3: ZMB
+  Status: Active
+  Projects:
+    PSPP:
+      Name: Public Sector Performance Programme
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    PEP_Z:
+      Name: Private Enterprise Programme
+      Client: U.K. Department for International Development
+      Start_Date: 2014
+      End_Date: 2019
+    ZEAP:
+      Name: Management of the DFID Zambia Economic Advocacy Programme
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2016
+    FSDZ:
+      Name: Financial Sector Deepening Zambia
+      URL: http://dai.com/our-work/projects/zambia%E2%80%94financial-sector-deepening-zambia-fsdz
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+    ESA:
+      Name: Food Trade
+      URL: http://dai.com/our-work/projects/east-and-southern-africa%E2%80%94foodtrade-esa
+      Client: U.K. Department for International Development
+      Start_Date: 2013
+      End_Date: 2018
+Zimbabwe:
+  SOV_A3: ZWE
+  Status: Active
+  Projects:
+    TRACE:
+      Name: Transparency Responsiveness Accountability and Citizen Engagement
+      Client: U.K. Department for International Development
+      Start_Date: 2015
+      End_Date: 2019

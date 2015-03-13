@@ -1,0 +1,10 @@
+# Setup - variables available at site.data.meta.title, site.data.meta.tagline, etc.
+title:            'DAI Map Data Explorer'
+tagline:          'Parse DAI country data from the "at a glance" map'
+description:      'A web-based tool for exploring DAI country data pulled via data feeds from the portal and orcle and used to generate online maps'
+author:
+  name:           'Bryan Schuetz'
+  url:            dai.com
+github:
+  repo:           
+version:          0.1

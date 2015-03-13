@@ -1,0 +1,38 @@
+---
+layout: page
+title: "Active Country Data: Outline"
+published: true
+---
+<p>Here's the map data for all countries with active projects, in an outline format.</p>
+<ul>
+{% for country_hash in site.data.countries %}
+  {% assign country_data = country_hash[1] %}
+    {% if country_data.Status == 'Active' %}
+      <ul>
+        <li><strong>{{ country_hash[0] }}</strong></li>
+        <li class="inset">
+          <ul>
+            <li>Country Code: <strong>{{ country_data.SOV_A3 }}</strong></li>
+            {% if country_data.Projects %}
+              <li class="inset">
+                <ul>
+                  {% for project_hash in country_data.Projects %}
+                    {% assign project_data = project_hash[1] %}
+                    <li>{{ project_hash[0] }}</li>
+                    <li class="inset">
+                      <ul>
+                        <li>Name: <strong>{{ project_data.Name }}</strong></li>
+                        <li><strong><a href="{{ project_data.URL }}">URL to page on dai.com</a></strong></li>
+                        <li>Active: <strong>{{ project_data.Start_Date }} - {{ project_data.End_Date }}</strong></li>
+                        <li>Client: <strong>{{ project_data.Client }}</strong></li>
+                      </ul>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% endif %}
+          </ul>
+        </li>
+      </ul>
+    {% endif %}
+{% endfor %}
