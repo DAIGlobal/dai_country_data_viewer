@@ -271,6 +271,7 @@ Cape_Verde:
     LAND:
       Name: Field Operations Manual and Completing Systematic Land Rights and Boundaries Clarification
       Client: Millennium Challenge Corporation
+      URL: http://dai.com/our-work/projects/cape-verde—preparation-comprehensive-field-operations-manual-and-completing
       Start_Date: 2014
       End_Date: 2015
 Cayman_Islands:
@@ -544,6 +545,7 @@ Ghana:
     WRCF:
       Name: Ghana Western Coastal Region Foundation
       Client: U.K. Department for International Development
+      URL: http://dai.com/our-work/projects/ghana-western-coastal-region-foundation-wcrf
       Start_Date: 2014
       End_Date: 2015
 Gibraltar:
@@ -997,6 +999,7 @@ Mongolia:
       Name: Mongolia MDA-SME Leasing Policy Initiative
       Start_Date: 2015
       End_Date: 2016
+      URL: http://dai.com/our-work/projects/mongolia—sme-leasing-policy-initiative
 Montserrat:
   SOV_A3: MSR
   Status: Inactive
@@ -1144,6 +1147,13 @@ Nigeria:
       URL: http://dai.com/our-work/projects/nigeria—state-partnership-accountability-responsiveness-and-capability-sparc
       Start_Date: 2008
       End_Date: 2015
+    PIND:
+      Name: Foundation for Partnership Initiatives in the Niger Delta 
+      URL: http://dai.com/our-work/projects/nigeria—foundation-partnership-initiatives-niger-delta-pind
+      Client: NDPI Foundation and PIND (Funded by Chevron Corporation)
+      Start_Date: 2010
+      End_Date: 2015
+
 Niue:
   SOV_A3: NIU
   Status: None
