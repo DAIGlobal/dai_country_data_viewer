@@ -5,50 +5,16 @@ published: true
 ---
 <h2><a href="{{ site.baseurl }}/usaid-shades.txt">Download</a></h2>
   {% highlight css %}
-  #Countries{ 
-    [SOV_A3='AFG'],
-    [SOV_A3='BGD'],
-    [SOV_A3='BRN'],
-    [SOV_A3='BDI'],
-    [SOV_A3='KHM'],
-    [SOV_A3='COL'],
-    [SOV_A3='SLV'],
-    [SOV_A3='ETH'],
-    [SOV_A3='GHA'],
-    [SOV_A3='GTM'],
-    [SOV_A3='HTI'],
-    [SOV_A3='HND'],
-    [SOV_A3='IDN'],
-    [SOV_A3='JOR'],
-    [SOV_A3='KEN'],
-    [SOV_A3='KGZ'],
-    [SOV_A3='LAO'],
-    [SOV_A3='LBN'],
-    [SOV_A3='LBR'],
-    [SOV_A3='MDG'],
-    [SOV_A3='MWI'],
-    [SOV_A3='MYS'],
-    [SOV_A3='MUS'],
-    [SOV_A3='MDA'],
-    [SOV_A3='MOZ'],
-    [SOV_A3='MMR'],
-    [SOV_A3='PSE'],
-    [SOV_A3='PER'],
-    [SOV_A3='PHL'],
-    [SOV_A3='RWA'],
-    [SOV_A3='SYC'],
-    [SOV_A3='SGP'],
-    [SOV_A3='SOL'],
-    [SOV_A3='SOM'],
-    [SOV_A3='TJK'],
-    [SOV_A3='TZA'],
-    [SOV_A3='THA'],
-    [SOV_A3='TLS'],
-    [SOV_A3='UGA'],
-    [SOV_A3='US1'],
-    [SOV_A3='UZB'],
-    [SOV_A3='VNM']{
-    polygon-fill: rgba(29, 90, 166, .8);
-    }
+  #Countries{
+{% strip %}
+{% for country_hash in site.data.countries %}
+{% for project in country_hash[1].Projects | limit:1 %} 
+{% if project[1].Client contains 'U.S. Agency for International Development' %}
+[SOV_A3='{{ country_hash[1].SOV_A3 }}'],
+{% endif %}
+{% endfor %}
+{% endfor %}
+{% endstrip %}
+    {polygon-fill: rgba(29, 90, 166, .8);}
   }
   {% endhighlight %}

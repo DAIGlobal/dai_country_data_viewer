@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <!-- Send old browsers to be replaced -->
+<!--[if lte IE 7]>
+  <meta http-equiv="refresh" content="0" url="http://browsehappy.com/" />
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  window.top.location = 'http://browsehappy.com/';
+  /* ]]> */
+  </script>
+<![endif]-->
+
+<!-- Identify reasonable browsers -->
+<!--[if IE 8]><<html class="ie8"> <![endif]-->
+<!--[if gt IE 8]><html class="gt-ie8"><![endif]-->
+
+<!-- Shim browsers for html5ish type stuff -->
+<!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      EC Shades CartoCSS &middot; DAI Map Data Explorer
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/css/site.css">
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <!-- Javascript -->
+  <script type="text/javascript" src="/assets/js/site.js"></script>
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+</head>
+
+
+  <body>
+    <div class="wrapper">
+      <div class="container content">
+        <div class="masthead">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">DAI Map Data Explorer</a>
+            <small>Parse DAI country data from the "at a glance" map</small>
+          </h3>
+        </div>
+
+        <div class="page">
+  <h1 class="page-title">EC Shades CartoCSS</h1>
+  <h2><a href="/ec-shades.txt">Download</a></h2>
+  <div class="highlight"><pre><code class="language-css" data-lang="css"><span class="nf">#Countries</span><span class="p">{</span> 
+  <span class="k">opacity</span><span class="o">:</span> <span class="o">.</span><span class="m">5</span><span class="p">;</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;AFG&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;ARM&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;AZE&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;BGD&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;BLR&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;BTN&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;BWA&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;GEO&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;IND&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;MDV&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;MDA&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;NPL&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;RUS&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;SRB&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;LKA&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;UKR&#39;</span><span class="p">]</span><span class="o">,</span>
+  <span class="p">[</span><span class="n">SOV_A3</span><span class="o">=</span><span class="s1">&#39;BEL&#39;</span><span class="p">]</span><span class="err">{</span>
+  <span class="n">polygon</span><span class="o">-</span><span class="n">fill</span><span class="o">:</span> <span class="n">rgba</span><span class="p">(</span><span class="m">248</span><span class="o">,</span> <span class="m">234</span><span class="o">,</span> <span class="m">11</span><span class="o">,</span>  <span class="o">.</span><span class="m">9</span><span class="p">);</span>
+  <span class="p">}</span>
+<span class="err">}</span></code></pre></div>
+</div>
+
+
+        <div class="footer">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
