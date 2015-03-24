@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '2.0.0.alpha.1'
+gem 'github-pages'
 gem 'rouge'
+gem 'guard', '2.12.5'
 gem 'guard-rake'
