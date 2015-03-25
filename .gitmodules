@@ -1,0 +1,3 @@
+[submodule "build"]
+	path = build
+	url = git@github.com:DAIGlobal/dai_country_data_viewer.git

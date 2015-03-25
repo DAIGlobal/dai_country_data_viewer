@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <!-- Send old browsers to be replaced -->
+<!--[if lte IE 7]>
+  <meta http-equiv="refresh" content="0" url="http://browsehappy.com/" />
+  <script type="text/javascript">
+  /* <![CDATA[ */
+  window.top.location = 'http://browsehappy.com/';
+  /* ]]> */
+  </script>
+<![endif]-->
+
+<!-- Identify reasonable browsers -->
+<!--[if IE 8]><<html class="ie8"> <![endif]-->
+<!--[if gt IE 8]><html class="gt-ie8"><![endif]-->
+
+<!-- Shim browsers for html5ish type stuff -->
+<!--[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      DAI Map Data Explorer &middot; Parse DAI country data from the "at a glance" map
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/dai_country_data_viewer/assets/css/site.css">
+  <!-- Icons -->
+  <link rel="shortcut icon" href="/dai_country_data_viewer/assets/favicon.ico">
+  <!-- Javascript -->
+  <script type="text/javascript" src="/dai_country_data_viewer/assets/js/site.js"></script>
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/dai_country_data_viewer/atom.xml">
+
+</head>
+
+
+  <body>
+    <div class="wrapper">
+      <div class="container content">
+        <div class="masthead">
+          <h3 class="masthead-title">
+            <a href="/dai_country_data_viewer/" title="Home">DAI Map Data Explorer</a>
+            <small>Parse DAI country data from the "at a glance" map</small>
+          </h3>
+        </div>
+
+        <h1>The Data Behind the Map</h1>
+<p>Use this tool to explore and manage the data behind the DAI at a glance map. You can generate the <a href="http://geojson.org">GeoJSON</a> used to place the pins on the map, the <a href="https://www.mapbox.com/tilemill/docs/manual/carto">CartoCSS</a> used to shade active and inactive countries—or generate a host of more human-readable views of the data, like an <a href="/dai_country_data_viewer/active-list/">outline of all country data</a> for countries with active projects.</p>
+<blockquote><p>All data is pulled from the <strong><a href="https://github.com/DAIGlobal/dai_country_data/blob/master/map_data.yml">DAI Country Data</a> YAML file on <a href="https://github.com/DAIGlobal">Github</a></strong>, which is updated via Sharepoint, Oracle, and ocassionally by hand—as needed.</p></blockquote>
+<iframe width='100%' height='500px' frameBorder='0' src='http://dai.com/extras/maps/index.html'></iframe>
+<hr>
+<h2 style="text-align: center;">Generate Data Files</h2>
+
+<h3><a href="/dai_country_data_viewer/point-geojson/">Point GeoJSON</a></h3>
+<p>This will generate the GeoJSON used to place pins on the map. Properties include description, marker-color, symbol, size, title, and coordinates.</p>
+<h3><a href="/dai_country_data_viewer/active-shades/">Active Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries active (dark-green) or inactive (light-green)—based on whether or not any active projects exist within the country object.</p>
+<h3><a href="/dai_country_data_viewer/usaid-shades/">USAID Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from USAID.</p>
+<h3><a href="/dai_country_data_viewer/dfid-shades/">DFID Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from DFID.</p>
+<h3><a href="/dai_country_data_viewer/ec-shades/">EC Shades CartoCSS</a></h3>
+<p>This will generate the CartoCSS used to shade countries with active projects from EC.</p>
+<hr>
+<h2 style="text-align: center;">Generate Human Readable Views</h2>
+<h3><a href="/dai_country_data_viewer/active-list/">Active Country Data Outline</a></h3>
+<p>All country data for countries that contain active projects. Properties include country name, code, project name, acronym, client, start date, end date, dai.com url.</p>
+<h3><a href="/dai_country_data_viewer/active-missing-url/">Countries With Active Projects Missing a URL</a></h3>
+<p>A list of all projects in active countries that are missing a link to a dai.com project page.</p>
+
+
+        <div class="footer">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
