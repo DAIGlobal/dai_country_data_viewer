@@ -1,14 +1,18 @@
-#Countries{
 
+#Countries{
 [SOV_A3='AFG'],
+[SOV_A3='BGD'],
 [SOV_A3='BRN'],
 [SOV_A3='BDI'],
 [SOV_A3='KHM'],
 [SOV_A3='COL'],
 [SOV_A3='SLV'],
+[SOV_A3='ETH'],
 [SOV_A3='FJI'],
 [SOV_A3='GHA'],
+[SOV_A3='GTM'],
 [SOV_A3='HTI'],
+[SOV_A3='HND'],
 [SOV_A3='IDN'],
 [SOV_A3='JOR'],
 [SOV_A3='KEN'],
@@ -18,12 +22,17 @@
 [SOV_A3='LBN'],
 [SOV_A3='LBR'],
 [SOV_A3='MDG'],
+[SOV_A3='MWI'],
 [SOV_A3='MYS'],
 [SOV_A3='MHL'],
 [SOV_A3='MUS'],
 [SOV_A3='FSM'],
+[SOV_A3='MDA'],
+[SOV_A3='MOZ'],
 [SOV_A3='MMR'],
 [SOV_A3='NRU'],
+[SOV_A3='PAK'],
+[SOV_A3='PSE'],
 [SOV_A3='PNG'],
 [SOV_A3='PER'],
 [SOV_A3='PHL'],
@@ -44,6 +53,5 @@
 [SOV_A3='UZB'],
 [SOV_A3='VUT'],
 [SOV_A3='VNM'],
-
-    {polygon-fill: rgba(29, 90, 166, .8);}
-  }
+{polygon-fill: rgba(29, 90, 166, .8);}
+}

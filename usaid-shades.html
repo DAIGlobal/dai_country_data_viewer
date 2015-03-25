@@ -5,16 +5,20 @@ published: true
 ---
 <h2><a href="{{ site.baseurl }}/usaid-shades.txt">Download</a></h2>
   {% highlight css %}
-  #Countries{
 {% strip %}
+#Countries{
+{% assign code = '' %}
 {% for country_hash in site.data.countries %}
-{% for project in country_hash[1].Projects | limit:1 %} 
-{% if project[1].Client contains 'U.S. Agency for International Development' %}
+  {% for project in country_hash[1].Projects %} 
+    {% if project[1].Client contains 'U.S. Agency for International Development' %}
+      {% unless code == country_hash[1].SOV_A3 %}
 [SOV_A3='{{ country_hash[1].SOV_A3 }}'],
-{% endif %}
+      {% endunless %}
+      {% assign code = country_hash[1].SOV_A3 %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
-{% endfor %}
+{polygon-fill: rgba(29, 90, 166, .8);}
+}
 {% endstrip %}
-    {polygon-fill: rgba(29, 90, 166, .8);}
-  }
   {% endhighlight %}

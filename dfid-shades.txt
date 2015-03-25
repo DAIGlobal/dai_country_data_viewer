@@ -1,21 +1,18 @@
+---
+---
+{% strip %}
 #Countries{ 
-  [SOV_A3='BDI'],
-  [SOV_A3='CH1'],
-  [SOV_A3='COD'],
-  [SOV_A3='ETH'],
-  [SOV_A3='GHA'],
-  [SOV_A3='KEN'],
-  [SOV_A3='KGZ'],
-  [SOV_A3='LBR'],
-  [SOV_A3='MWI'],
-  [SOV_A3='MOZ'],
-  [SOV_A3='PAK'],
-  [SOV_A3='SLE'],
-  [SOV_A3='TZA'],
-  [SOV_A3='UGA'],
-  [SOV_A3='ZMB'],
-  [SOV_A3='NGA'],
-  [SOV_A3='ZWE']{
-  polygon-fill: rgba(251, 73, 72, .8);
-  }
+  {% assign code = '' %}
+{% for country_hash in site.data.countries %}
+  {% for project in country_hash[1].Projects %} 
+    {% if project[1].Client contains 'U.K. Department for International Development' %}
+      {% unless code == country_hash[1].SOV_A3 %}
+[SOV_A3='{{ country_hash[1].SOV_A3 }}'],
+      {% endunless %}
+      {% assign code = country_hash[1].SOV_A3 %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+  {polygon-fill: rgba(251, 73, 72, .8);}
 }
+{% endstrip %}
