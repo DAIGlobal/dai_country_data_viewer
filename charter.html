@@ -1,0 +1,11 @@
+---
+layout: page
+title: ""
+published: true
+---
+{% for measurement in site.data.stream %}
+  {% assign water = measurement.stream_height %}
+  {% assign warray = water | split: "." %}
+  <p>{% for wnum in warray | limit: 1 %}{{ wnum | plus: 6 }}.{% endfor %}{% for wnum in warray | offset: 1 %}{{ wnum }}{% endfor %}</p>
+{% endfor %}
+ 
