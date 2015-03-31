@@ -1539,7 +1539,7 @@ South_Sudan:
   Projects:
     SSEPSII:
       Name: South Sudan Electronic Payroll System 
-      client: World Bank
+      Client: World Bank
 Suriname:
   SOV_A3: SUR
   Status: None
