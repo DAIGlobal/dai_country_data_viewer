@@ -80,6 +80,7 @@
 [SOV_A3='SOL'],
 [SOV_A3='SOM'],
 [SOV_A3='LKA'],
+[SOV_A3='SSD'],
 [SOV_A3='TJK'],
 [SOV_A3='TZA'],
 [SOV_A3='THA'],
