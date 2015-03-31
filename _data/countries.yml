@@ -1533,6 +1533,13 @@ St_Vincent_and_the_Grenadines:
 Sudan:
   SOV_A3: SDN
   Status: Inactive
+South_Sudan:
+  SOV_A3: SSD
+  Status: Active
+  Projects:
+    SSEPSII:
+      Name: South Sudan Electronic Payroll System 
+      client: World Bank
 Suriname:
   SOV_A3: SUR
   Status: None
