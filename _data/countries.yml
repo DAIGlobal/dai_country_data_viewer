@@ -1407,7 +1407,14 @@ Saudi_Arabia:
   Status: Inactive
 Senegal:
   SOV_A3: SEN
-  Status: Inactive
+  Status: Active
+  Projects: 
+    Africa_Lead:
+      Name: Africa Lead II
+      URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
+      Client: U.S. Agency for International Development
+      Start_Date: 2013
+      End_Date: 2018
 Serbia:
   SOV_A3: SRB
   Status: Active
