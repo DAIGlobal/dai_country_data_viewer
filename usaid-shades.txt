@@ -38,6 +38,7 @@
 [SOV_A3='PHL'],
 [SOV_A3='RWA'],
 [SOV_A3='WSM'],
+[SOV_A3='SEN'],
 [SOV_A3='SYC'],
 [SOV_A3='SGP'],
 [SOV_A3='SLB'],
