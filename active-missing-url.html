@@ -3,21 +3,21 @@ layout: page
 title: "Countries With Active Projects Missing a dai.com URL"
 published: true
 ---
-<p>Here's a list of all projects in active countries that are missing a URL field.</p>
 <ul>
-{% for country_hash in site.data.countries %}
-  {% assign country_data = country_hash[1] %}
-    {% if country_data.Status == 'Active' %}
-      <ul>
-        <li><strong>{{ country_hash[0] }}</strong></li><!-- COUNTRY NAME -->
-        <li class="inset">
-          <ul>
+  <li class="inset">
+    {% for country_hash in site.data.countries %}
+      {% assign country_data = country_hash[1] %}
+        {% if country_data.Status == 'Active' %}
+          <ul class="country-block">
+            <li class="country"><strong>{{ country_hash[0] }}</strong></li><!-- COUNTRY NAME -->
             {% if country_data.Projects %}
-              <li class="inset">
-                <ul>
-                  {% for project_hash in country_data.Projects %}
-                    {% assign project_data = project_hash[1] %}
-                    {% unless project_data.URL %}
+            {% for project_hash in country_data.Projects %}
+              {% assign project_data = project_hash[1] %}
+              {% unless project_data.URL %}
+            <li class="inset project-block">
+              <ul>
+                  <li class="inset project">
+                    <ul>    
                       <li>{{ project_hash[0] }}</li>
                       <li class="inset">
                         <ul>
@@ -26,13 +26,15 @@ published: true
                           <li>Client: <strong>{{ project_data.Client }}</strong></li>
                         </ul>
                       </li>
-                    {% endunless %}
-                  {% endfor %}
-                </ul>
-              </li>
+                    </ul>
+                  </li>
+              </ul>
+            </li>
+              {% endunless %}
+              {% endfor %}
             {% endif %}
           </ul>
-        </li>
-      </ul>
-    {% endif %}
-{% endfor %}
+        {% endif %}
+    {% endfor %}
+  </li>
+</ul>

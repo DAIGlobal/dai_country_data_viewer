@@ -142,6 +142,7 @@ Belgium:
       Client: European Commission
       Start_Date: 2015
       End_Date: 2019
+      URL: http://dai.com/our-work/projects/worldwide—technical-and-advisory-services-social-transfers-asist
     EU_ACP:
       Name: European Union Microfinance Programme
       URL: http://dai.com/our-work/projects/african-caribbean-and-pacific–european-union-microfinance-programme
@@ -451,6 +452,12 @@ Ethiopia_excludes_Eritrea_:
       Client: U.S. Agency for International Development
       Start_Date: 2014
       End_Date: 2019
+    TAUT:
+      Name: Tax, Audit, and Transparency Programme
+      URL: http://dai.com/our-work/projects/ethiopia-tax-audit-and-transparency-programme-taut
+      Client: U.K. Department for International Development
+      Start_Date: 2015
+      End_Date: 2018
   Timeline: http://dai.com/extras/maps/timelines/ethiopia.pdf
 Faeroe_Islands:
   SOV_A3: FRO
@@ -1103,6 +1110,7 @@ Nepal:
       Name: Nepal Risk Reduction Consortium Nationwide Risk Assessment
       Start_Date: 2014
       End_Date: 2015
+      Client: U.K. Department of International Development
     SAARC:
       Name: EU Public Diplomacy and Outreach in India and the South Asian Association for Regional Cooperation
       URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
@@ -1215,6 +1223,7 @@ Pakistan:
       Client: U.S. Agency for International Development
       Start_Date: 2015
       End_Date: 2019
+      URL: http://dai.com/our-work/projects/pakistan%E2%80%94khyber-pakhtunkhwa-governance-program-kpg
 Palau:
   SOV_A3: PLW
   Status: None
@@ -1542,11 +1551,7 @@ Sudan:
   Status: Inactive
 South_Sudan:
   SOV_A3: SSD
-  Status: Active
-  Projects:
-    SSEPSII:
-      Name: South Sudan Electronic Payroll System 
-      Client: World Bank
+  Status: Inactive
 Suriname:
   SOV_A3: SUR
   Status: None
@@ -1843,16 +1848,19 @@ Zambia:
       Client: U.K. Department for International Development
       Start_Date: 2014
       End_Date: 2019
+      URL: http://dai.com/our-work/projects/zambia-public-service-performance-programme-pspp
     PEP_Z:
       Name: Private Enterprise Programme
       Client: U.K. Department for International Development
       Start_Date: 2014
       End_Date: 2019
+      URL: http://dai.com/our-work/projects/zambia—private-enterprise-programme–zambia-pep-z
     ZEAP:
       Name: Management of the DFID Zambia Economic Advocacy Programme
       Client: U.K. Department for International Development
       Start_Date: 2013
       End_Date: 2016
+      URL: http://dai.com/our-work/projects/zambia%E2%80%94economic-advocacy-programme-zeap
     FSDZ:
       Name: Financial Sector Deepening Zambia
       URL: http://dai.com/our-work/projects/zambia%E2%80%94financial-sector-deepening-zambia-fsdz
@@ -1874,3 +1882,4 @@ Zimbabwe:
       Client: U.K. Department for International Development
       Start_Date: 2015
       End_Date: 2019
+      URL: http://dai.com/our-work/projects/zimbabwe%E2%80%94transparency-responsiveness-accountability-and-citizen-engagement-trace
