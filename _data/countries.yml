@@ -45,13 +45,31 @@ Afghanistan:
       Client: U.S. Agency for International Development
       Start_Date: 2009
       End_Date: 2015
-Albania: 
+    Musharikat:
+      Name: Musharikat
+      URL: http://dai.com/our-work/projects/afghanistan—musharikat
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2020
+    AWLE:
+      Name: Afghan Women’s Leadership in the Economy
+      URL: http://dai.com/our-work/projects/afghanistan—afghan-womens-leadership-economy-awle
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2020
+    ACE:
+      Name: Agricultural Credit Enhancement Program
+      URL: http://dai.com/our-work/projects/afghanistan—agricultural-credit-enhancement-program-i-ii-ace
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2018
+Albania:
   SOV_A3: ALB
   Status: Inactive
-Algeria: 
+Algeria:
   SOV_A3: DZA
   Status: Inactive
-American_Samoa: 
+American_Samoa:
   SOV_A3: US1 #Protectorate
   Status: Active
 Andorra:
@@ -60,20 +78,20 @@ Andorra:
 Angola:
   SOV_A3: AGO
   Status: Inactive
-Anguila: 
+Anguila:
   SOV_A3: GB1 #Protectorate
   Status: Active
 Antigua_and_Barbuda:
   SOV_A3: ATG
   Status: None
-Argentina: 
+Argentina:
   SOV_A3: ARG
   Status: Inactive
-Armenia: 
+Armenia:
   SOV_A3: ARM
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -82,17 +100,17 @@ Armenia:
 Aruba:
   SOV_A3: ABW
   Status: None
-Australia: 
+Australia:
   SOV_A3: AU1
   Status: Inactive
-Austria: 
+Austria:
   SOV_A3: AUT
   Status: Inactive
-Azerbaijan: 
+Azerbaijan:
   SOV_A3: AZE
   Status: Active
-  Projects: 
-    Clima_East: 
+  Projects:
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -127,7 +145,7 @@ Belarus:
   SOV_A3: BLR
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -158,7 +176,7 @@ Belize:
 Benin:
   SOV_A3: BEN
   Status: Inactive
-Bermuda: 
+Bermuda:
   SOV_A3: BMU
   Status: Inactive
 Bhutan:
@@ -170,7 +188,7 @@ Bhutan:
       URL: http://dai.com/our-work/projects/south-asia%E2%80%94eu-public-diplomacy-and-outreach-india-and-south-asian-association
       Client: European Commission
       Start_Date: 2013
-      End_Date: 2016      
+      End_Date: 2016
 Bolivia:
   SOV_A3: BOL
   Status: Inactive
@@ -179,7 +197,7 @@ Bosnia_and_Herzegovina:
   Status: Active
   Projects:
     WeBSEFF_II:
-      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      Name: Western Balkans Sustainable Energy Credit Line Facility
       URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
       Client: European Bank for Reconstruction and Development
       Start_Date: 2009
@@ -189,7 +207,7 @@ Botswana:
   Status: Active
   Projects:
     SADC:
-      Name: Technical Assistance to the SADC Secretariat - institutional capacity development programme 
+      Name: Technical Assistance to the SADC Secretariat - institutional capacity development programme
       Client: European Commission
       Start_Date: 2013
       End_Date: 2016
@@ -206,7 +224,7 @@ British_Indian_Ocean_Ter:
 British_Virgin_Islands:
   SOV_A3: GB1 #Protectorate
   Status: Active
-Brunei: 
+Brunei:
   SOV_A3: BRN
   Status: Active
   Projects:
@@ -259,7 +277,7 @@ Cambodia:
       URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
       Client: U.S. Agency for International Development
       Start_Date: 2011
-      End_Date: 2016      
+      End_Date: 2016
 Cameroon:
   SOV_A3: CMR
   Status: Inactive
@@ -282,7 +300,7 @@ Cayman_Islands:
 Central_African_Republic:
   SOV_A3: CAF
   Status: Inactive
-Chad: 
+Chad:
   SOV_A3: TCD
   Status: Inactive
 Chile:
@@ -291,7 +309,7 @@ Chile:
 China:
   SOV_A3: CH1
   Status: Active
-  Projects: 
+  Projects:
     Evidence_on_Demand:
       Name: International Waters Cooperation Catalytic Support to Advanced Interdisciplinary Capacity Development - Monitoring Evaluation Consultancy Service
       URL: http://dai.com/our-work/projects/worldwide—evidence-demand-core-services
@@ -320,7 +338,7 @@ Comoros:
 Congo_Dem_Rep:
   SOV_A3: COD
   Status: Active
-  Projects: 
+  Projects:
     ROADS_II_ME:
       Name: 'Roads in the East of DRC Phase 2: Monitoring and Evaluation, Environmental, and Social Management and Maintenance'
       URL: http://dai.com/our-work/projects/democratic-republic-congo%E2%80%94roads-east-drc-phase-2-monitoring-and-evaluation
@@ -328,11 +346,17 @@ Congo_Dem_Rep:
       Start_Date: 2014
       End_Date: 2015
     SSAPR:
-      Name: Security Sector Accountability and Police Reform Programme 
+      Name: Security Sector Accountability and Police Reform Programme
       URL: http://dai.com/our-work/projects/democratic-republic-congo%E2%80%94security-sector-accountability-and-police-reform
       Client: U.K. Department for International Development
       Start_Date: 2009
       End_Date: 2015
+    DAO_Progress:
+      Name: Technical Assistance for the Programme to Support Security Sector Reform
+      URL: http://dai.com/our-work/projects/democratic-republic-congo—technical-assistance-programme-support-security-sector
+      Client: European Commission
+      Start_Date: 2015
+      End_Date: 2021
 Congo_Rep:
   SOV_A3: COG
   Status: Inactive
@@ -440,7 +464,7 @@ Ethiopia_excludes_Eritrea_:
       Client:  U.K. Department for International Development
       Start_Date: 2014
       End_Date:  2019
-    PEPE: 
+    PEPE:
       Name: Private Enterprise Programme Ethiopia
       URL: http://dai.com/our-work/projects/ethiopia%E2%80%94private-enterprise-programme-ethiopia-pepe
       Client:  U.K. Department for International Development
@@ -526,7 +550,7 @@ Georgia:
   SOV_A3: GEO
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -538,7 +562,7 @@ Germany:
 Ghana:
   SOV_A3: GHA
   Status: Active
-  Projects: 
+  Projects:
     Africa_Lead:
       Name: Africa Lead II
       URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
@@ -569,7 +593,7 @@ Greenland:
 Grenada:
   SOV_A3: GRD
   Status: Inactive
-Guadeloupe: 
+Guadeloupe:
   SOV_A3: GLP
   Status: None
 Guam: #Protectorage
@@ -751,7 +775,7 @@ Kenya:
     DAP:
       Name: Drivers of Accountability Programme
       URL: http://dai.com/our-work/projects/kenya%E2%80%94drivers-accountability-programme-dap
-      Client: 
+      Client:
         - U.K. Department of International Development
         - Canadian International Development Agency
         - Danish International Development Agency
@@ -775,6 +799,12 @@ Kenya:
       URL: http://dai.com/our-work/projects/kenya—strengthening-adaptation-and-resilience-climate-change-kenya-plus-starck
       Start_Date: 2013
       End_Date: 2016
+    KIWASH:
+      Name: Integrated Water, Sanitation, and Hygiene Project
+      Client: U.S. Agency for International Development
+      URL: http://dai.com/our-work/projects/kenya—integrated-water-sanitation-and-hygiene-project-kiwash
+      Start_Date: 2015
+      End_Date: 2020
 Kiribati:
   SOV_A3: KIR
   Status: Active
@@ -784,7 +814,7 @@ Kiribati:
       URL: http://dai.com/our-work/projects/south-pacific-islands%E2%80%94coastal-community-adaptation-project-c-cap
       Client: U.S. Agency for International Development
       Start_Date: 2012
-      End_Date: 2015    
+      End_Date: 2015
 Korea_Dem_Rep:
   SOV_A3: PRK
   Status: Inactive
@@ -818,7 +848,7 @@ Lao_PDR:
       URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
       Client: U.S. Agency for International Development
       Start_Date: 2011
-      End_Date: 2016      
+      End_Date: 2016
     PROGRESS:
       Name: ASEAN-U.S. Partnership for Good Governance, Equitable and Sustainable Development and Security
       URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94asean-us-partnership-good-governance-equitable-and-sustainable
@@ -882,7 +912,7 @@ Macedonia_FYR:
   Status: Active
   Projects:
     WeBSEFF_II:
-      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      Name: Western Balkans Sustainable Energy Credit Line Facility
       URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
       Client: European Bank for Reconstruction and Development
       Start_Date: 2009
@@ -991,7 +1021,7 @@ Moldova:
   SOV_A3: MDA
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -1023,7 +1053,7 @@ Montserrat:
 Montenegro:
   SOV_A3: MNE
   Status: Inactive
-Morocco: 
+Morocco:
   SOV_A3: MAR
   Status: Active
   Projects:
@@ -1038,7 +1068,7 @@ Mozambique:
   Status: Active
   Projects:
     INOVAGRO_II:
-      Name: Innovation for Agribusiness Private Sector-Led Rural Growth in Northern Mozambique 
+      Name: Innovation for Agribusiness Private Sector-Led Rural Growth in Northern Mozambique
       URL: http://dai.com/our-work/projects/mozambique%E2%80%94innovation-agribusiness-inovagro
       Client: Swiss Agency for Development and Cooperation
       Start_Date: 2014
@@ -1050,7 +1080,7 @@ Mozambique:
       Start_Date: 2013
       End_Date: 2018
     SPEED:
-      Name: Support Program for Economic and Enterprise Development 
+      Name: Support Program for Economic and Enterprise Development
       URL: http://dai.com/our-work/projects/mozambique%E2%80%94support-program-economic-and-enterprise-development-speed
       Client: U.S. Agency for International Development
       Start_Date: 2010
@@ -1136,7 +1166,7 @@ Nicaragua:
     RCCP:
       Name: Regional Climate Change Program
       Start_Date: 2013
-      End_Date: 2018      
+      End_Date: 2018
 Niger:
   SOV_A3: NER
   Status: Inactive
@@ -1150,11 +1180,12 @@ Nigeria:
       Start_Date: 2013
       End_Date: 2018
       Client: U.K. Department for International Development
-    PDF:
-      Name: Policy Develpment Facility
-      Start_Date: 2011 
-      End_Date: 2015
+    PDF2:
+      Name: DFID Policy Development Facility
+      Start_Date: 2015
+      End_Date: 2020
       Client: U.K. Department for International Development
+      URL: http://dai.com/our-work/projects/nigeria—dfid-policy-development-facility-pdf2-0
     FEPAR:
       Name: Federal Public Administration Reform
       Start_Date: 2011
@@ -1166,7 +1197,7 @@ Nigeria:
       Start_Date: 2008
       End_Date: 2015
     PIND:
-      Name: Foundation for Partnership Initiatives in the Niger Delta 
+      Name: Foundation for Partnership Initiatives in the Niger Delta
       URL: http://dai.com/our-work/projects/nigeria—foundation-partnership-initiatives-niger-delta-pind
       Client: NDPI Foundation and PIND (Funded by Chevron Corporation)
       Start_Date: 2010
@@ -1195,7 +1226,7 @@ Pakistan:
   Status: Active
   Projects:
     EDACE:
-      Name: Enhanced Democratic Accountability and Civic Engagement 
+      Name: Enhanced Democratic Accountability and Civic Engagement
       URL: http://dai.com/our-work/projects/pakistan%E2%80%94enhanced-democratic-accountability-and-civic-engagement-edace
       Client: U.K. Foreign and Commonwealth Office
       Start_Date: 2013
@@ -1224,6 +1255,12 @@ Pakistan:
       Start_Date: 2015
       End_Date: 2019
       URL: http://dai.com/our-work/projects/pakistan%E2%80%94khyber-pakhtunkhwa-governance-program-kpg
+    PRIEA:
+      Name: Pakistan Regional Economic Integration Activity
+      Client: U.S. Agency for International Development
+      URL: http://dai.com/our-work/projects/pakistan-regional-economic-integration-activity-preia
+      Start_Date: 2015
+      End_Date: 2020
 Palau:
   SOV_A3: PLW
   Status: None
@@ -1234,7 +1271,7 @@ Palestine:
     PMDP:
       Name: Palestinian Market Development Programme
       URL: http://dai.com/our-work/projects/palestinian-market-development-programme-pmdp
-      Client: 
+      Client:
         - UK Department for International Development
         - European Union
         - Palestinian Ministry of Economics
@@ -1258,7 +1295,7 @@ Panama:
     RCCP:
       Name: Regional Climate Change Program
       Start_Date: 2013
-      End_Date: 2018 
+      End_Date: 2018
     EU_PAN:
       Name: Asistencia tecnica a un proyecto de apoyo a la cohesion social en Panama
       Client: European Commission
@@ -1312,7 +1349,7 @@ Philippines:
       Start_Date: 2013
       End_Date: 2018
     ENGAGE:
-      Name: Enhancing Governance, Accountability, and Engagement 
+      Name: Enhancing Governance, Accountability, and Engagement
       URL: http://dai.com/our-work/projects/philippines%E2%80%94enhancing-governance-accountability-and-engagement-engage
       Client: U.S. Agency for International Development
       Start_Date: 2013
@@ -1349,7 +1386,7 @@ Russian_Federation:
   SOV_A3: RUS
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -1417,7 +1454,7 @@ Saudi_Arabia:
 Senegal:
   SOV_A3: SEN
   Status: Active
-  Projects: 
+  Projects:
     Africa_Lead:
       Name: Africa Lead II
       URL: http://dai.com/our-work/projects/africa%E2%80%94africa-lead-ii
@@ -1435,7 +1472,7 @@ Serbia:
       Start_Date: 2014
       End_Date: 2015
     WeBSEFF_II:
-      Name: Western Balkans Sustainable Energy Credit Line Facility 
+      Name: Western Balkans Sustainable Energy Credit Line Facility
       URL: http://dai.com/our-work/projects/western-balkans-sustainable-energy-finance-facility-webseff-i-ii
       Client: European Bank for Reconstruction and Development
       Start_Date: 2009
@@ -1521,6 +1558,12 @@ Somalia:
       Client: U.S. Agency for International Development
       Start_Date: 2011
       End_Date: 2016
+    PIMS:
+      Name: Promoting Inclusive Markets in Somalia
+      URL: http://dai.com/our-work/projects/somalia%E2%80%94promoting-inclusive-markets-somalia
+      Client: U.K. Department for International Development
+      Start_Date: 2015
+      End_Date: 2018
 South_Africa:
   SOV_A3: ZAF
   Status: Inactive
@@ -1630,7 +1673,7 @@ Thailand:
       URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
       Client: U.S. Agency for International Development
       Start_Date: 2011
-      End_Date: 2016      
+      End_Date: 2016
     Sapan:
       Name: Sapan
       URL: http://dai.com/our-work/projects/thailand%E2%80%94sapan
@@ -1707,7 +1750,7 @@ Ukraine:
   SOV_A3: UKR
   Status: Active
   Projects:
-    Clima_East: 
+    Clima_East:
       Name: Support to Climate Change Mitigation and Adaptation in Russia and ENP East Countries
       URL: http://dai.com/our-work/projects/russian-federation%E2%80%94clima-east-support-climate-change-mitigation-and-adaptation
       Client: European Commission
@@ -1723,7 +1766,7 @@ United_Kingdom:
     Evidence_on_Demand:
       Name: Evidence on Demand
       URL: http://dai.com/our-work/projects/worldwide—evidence-demand-core-services
-      Client: U.K. Department for International Development  
+      Client: U.K. Department for International Development
 United_States:
   SOV_A3: US1
   Status: Active
@@ -1770,6 +1813,12 @@ United_States:
       Client: U.S. Agency for International Development
       Start_Date: 2012
       End_Date: 2017
+    WALIS:
+      Name: Water for Africa through Leadership and Institutional Support
+      URL: http://dai.com/our-work/projects/worldwide—water-africa-through-leadership-and-institutional-support-walis
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2020
 Uruguay:
   SOV_A3: URY
   Status: Inactive
@@ -1786,6 +1835,12 @@ Uzbekistan:
       Client: U.S. Agency for International Development
       Start_Date: 2011
       End_Date: 2015
+    AVC:
+      Name: Agricultural Value Chain Activity in Uzbekistan
+      URL: http://dai.com/our-work/projects/uzbekistan%E2%80%94usaid-agricultural-value-chain-activity-uzbekistan-uzbekistan-avc
+      Client: U.S. Agency for International Development
+      Start_Date: 2015
+      End_Date: 2020
 Vanuatu:
   SOV_A3: VUT
   Status: Active
@@ -1814,7 +1869,7 @@ Vietnam:
       URL: http://dai.com/our-work/projects/southeast-asia%E2%80%94mekong-adaptation-and-resilience-climate-change-arcc
       Client: U.S. Agency for International Development
       Start_Date: 2011
-      End_Date: 2016      
+      End_Date: 2016
     PDSP:
       Name: USAID Persons with Disabilities Support Program
       URL: http://dai.com/our-work/projects/vietnam%E2%80%94usaid-program-comprehensive-and-integrated-support-people-disabilities
