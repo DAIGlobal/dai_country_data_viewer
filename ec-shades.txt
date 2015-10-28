@@ -8,6 +8,7 @@
 [SOV_A3='BEL'],
 [SOV_A3='BTN'],
 [SOV_A3='BWA'],
+[SOV_A3='COD'],
 [SOV_A3='GEO'],
 [SOV_A3='IND'],
 [SOV_A3='MDV'],

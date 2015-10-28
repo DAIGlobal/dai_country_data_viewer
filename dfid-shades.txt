@@ -13,6 +13,7 @@
 [SOV_A3='NGA'],
 [SOV_A3='PAK'],
 [SOV_A3='SLE'],
+[SOV_A3='SOM'],
 [SOV_A3='TZA'],
 [SOV_A3='UGA'],
 [SOV_A3='GB1'],
